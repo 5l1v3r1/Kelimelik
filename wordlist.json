@@ -1,0 +1,5352 @@
+[
+  {
+    "article": "der",
+    "german": "Abend",
+    "turkish": "akşam"
+  },
+  {
+    "article": "der",
+    "german": "Abonnement",
+    "turkish": "abone"
+  },
+  {
+    "article": "der",
+    "german": "Abschied",
+    "turkish": "vedalaşma"
+  },
+  {
+    "article": "der",
+    "german": "Affe",
+    "turkish": "maymun"
+  },
+  {
+    "article": "der",
+    "german": "an",
+    "turkish": "e-farklı"
+  },
+  {
+    "article": "der",
+    "german": "Anspitzer",
+    "turkish": "kalemtıraş"
+  },
+  {
+    "article": "der",
+    "german": "Apfel",
+    "turkish": "elma"
+  },
+  {
+    "article": "der",
+    "german": "Apfelsaft",
+    "turkish": "elma suyu"
+  },
+  {
+    "article": "der",
+    "german": "April",
+    "turkish": "nisan"
+  },
+  {
+    "article": "der",
+    "german": "Arbeitsplatz",
+    "turkish": "iş yeri"
+  },
+  {
+    "article": "der",
+    "german": "Architekt",
+    "turkish": "mimar"
+  },
+  {
+    "article": "der",
+    "german": "Architekt",
+    "turkish": "mimar (erkek)"
+  },
+  {
+    "article": "der",
+    "german": "Arm",
+    "turkish": "kol"
+  },
+  {
+    "article": "der",
+    "german": "Arzt",
+    "turkish": "doktor (erkek)"
+  },
+  {
+    "article": "der",
+    "german": "Ast",
+    "turkish": "dal"
+  },
+  {
+    "article": "der",
+    "german": "Astronaut",
+    "turkish": "astronot (erkek)"
+  },
+  {
+    "article": "der",
+    "german": "Atlas",
+    "turkish": "atlas"
+  },
+  {
+    "article": "der",
+    "german": "Audi",
+    "turkish": "Audi"
+  },
+  {
+    "article": "der",
+    "german": "Auf Wie",
+    "turkish": "sehen!-Görüşmek Üzere!"
+  },
+  {
+    "article": "der",
+    "german": "August",
+    "turkish": "ağustos"
+  },
+  {
+    "article": "der",
+    "german": "Ausflug",
+    "turkish": "gezi"
+  },
+  {
+    "article": "der",
+    "german": "Ausweis",
+    "turkish": "kimlik"
+  },
+  {
+    "article": "der",
+    "german": "auswendig lernen",
+    "turkish": "ezberlemek"
+  },
+  {
+    "article": "der",
+    "german": "Automechaniker",
+    "turkish": "mekaniker"
+  },
+  {
+    "article": "der",
+    "german": "Autoschlüssel",
+    "turkish": "araba anahtarı"
+  },
+  {
+    "article": "der",
+    "german": "Bäcker",
+    "turkish": "fırıncı (erkek)"
+  },
+  {
+    "article": "der",
+    "german": "Bahnhof",
+    "turkish": "istasyon"
+  },
+  {
+    "article": "der",
+    "german": "Balkon",
+    "turkish": "balkon"
+  },
+  {
+    "article": "der",
+    "german": "Ball",
+    "turkish": "top"
+  },
+  {
+    "article": "der",
+    "german": "Bär",
+    "turkish": "ayı"
+  },
+  {
+    "article": "der",
+    "german": "Bauarbeiter",
+    "turkish": "inşaat işçisi"
+  },
+  {
+    "article": "der",
+    "german": "Bauer",
+    "turkish": "çiftçi (erkek)"
+  },
+  {
+    "article": "der",
+    "german": "Baum",
+    "turkish": "ağaç"
+  },
+  {
+    "article": "der",
+    "german": "Bauplan",
+    "turkish": "inşaat planı"
+  },
+  {
+    "article": "der",
+    "german": "Becher",
+    "turkish": "bardak"
+  },
+  {
+    "article": "der",
+    "german": "beför",
+    "turkish": "n-taşımak"
+  },
+  {
+    "article": "der",
+    "german": "Berg",
+    "turkish": "dağ"
+  },
+  {
+    "article": "der",
+    "german": "Beruf",
+    "turkish": "meslek"
+  },
+  {
+    "article": "der",
+    "german": "Beton",
+    "turkish": "beton"
+  },
+  {
+    "article": "der",
+    "german": "Biologe",
+    "turkish": "biyolog"
+  },
+  {
+    "article": "der",
+    "german": "bitte-rica e",
+    "turkish": "im , lütfen"
+  },
+  {
+    "article": "der",
+    "german": "Bleistift",
+    "turkish": "kurşun kalem"
+  },
+  {
+    "article": "der",
+    "german": "BMW",
+    "turkish": "BMW"
+  },
+  {
+    "article": "der",
+    "german": "Boden",
+    "turkish": "yer, zaman"
+  },
+  {
+    "article": "der",
+    "german": "Brezel",
+    "turkish": ", diealman simidi"
+  },
+  {
+    "article": "der",
+    "german": "Brief",
+    "turkish": "mektup"
+  },
+  {
+    "article": "der",
+    "german": "Briefträger",
+    "turkish": "postacı (erkek)"
+  },
+  {
+    "article": "der",
+    "german": "Brokkoli",
+    "turkish": "brokoli"
+  },
+  {
+    "article": "der",
+    "german": "Bru",
+    "turkish": "derabi, erkek kardeş"
+  },
+  {
+    "article": "der",
+    "german": "Brunnen",
+    "turkish": "kuyu"
+  },
+  {
+    "article": "der",
+    "german": "Buchladen",
+    "turkish": "kitapçı"
+  },
+  {
+    "article": "der",
+    "german": "Buntstift",
+    "turkish": "renkli kalem"
+  },
+  {
+    "article": "der",
+    "german": "Bus",
+    "turkish": "otobüs"
+  },
+  {
+    "article": "der",
+    "german": "Chef",
+    "turkish": "şef, patron"
+  },
+  {
+    "article": "der",
+    "german": "Clown",
+    "turkish": "palyaço"
+  },
+  {
+    "article": "der",
+    "german": "Computer",
+    "turkish": "bilgisayar"
+  },
+  {
+    "article": "der",
+    "german": "Cousin",
+    "turkish": "erkek kuzen"
+  },
+  {
+    "article": "der",
+    "german": "danke-teşekkür e",
+    "turkish": "im, teşekkürler"
+  },
+  {
+    "article": "der",
+    "german": "Deutschkurs",
+    "turkish": "almanca kursu"
+  },
+  {
+    "article": "der",
+    "german": "Dezember",
+    "turkish": "aralık"
+  },
+  {
+    "article": "der",
+    "german": "Dieb",
+    "turkish": "hırsız"
+  },
+  {
+    "article": "der",
+    "german": "Dienstag",
+    "turkish": "salı"
+  },
+  {
+    "article": "der",
+    "german": "Dinosaurier",
+    "turkish": "dinazor"
+  },
+  {
+    "article": "der",
+    "german": "Doktorand",
+    "turkish": "doktora öğrencisi"
+  },
+  {
+    "article": "der",
+    "german": "Dokumentarlm",
+    "turkish": "belgesel"
+  },
+  {
+    "article": "der",
+    "german": "Dollar",
+    "turkish": "dolar"
+  },
+  {
+    "article": "der",
+    "german": "Donnerstag",
+    "turkish": "Perşembe"
+  },
+  {
+    "article": "der",
+    "german": "Dorn",
+    "turkish": "diken"
+  },
+  {
+    "article": "der",
+    "german": "Dozent",
+    "turkish": "doçent"
+  },
+  {
+    "article": "der",
+    "german": "Drucker",
+    "turkish": "yazıcı"
+  },
+  {
+    "article": "der",
+    "german": "Elefant",
+    "turkish": "fil"
+  },
+  {
+    "article": "der",
+    "german": "Englischkurs",
+    "turkish": "İngilizce kursu"
+  },
+  {
+    "article": "der",
+    "german": "Enkel",
+    "turkish": "torun"
+  },
+  {
+    "article": "der",
+    "german": "Enkelkin",
+    "turkish": "dietorunlar"
+  },
+  {
+    "article": "der",
+    "german": "Esel",
+    "turkish": "eşek"
+  },
+  {
+    "article": "der",
+    "german": "Euro",
+    "turkish": "Avro"
+  },
+  {
+    "article": "der",
+    "german": "Fabrikant",
+    "turkish": "üretici firma"
+  },
+  {
+    "article": "der",
+    "german": "Fahrer",
+    "turkish": "sürücü"
+  },
+  {
+    "article": "der",
+    "german": "Fahrrad",
+    "turkish": "bisiklet"
+  },
+  {
+    "article": "der",
+    "german": "Februar",
+    "turkish": "şubat"
+  },
+  {
+    "article": "der",
+    "german": "Fe",
+    "turkish": "mappediekalemlik"
+  },
+  {
+    "article": "der",
+    "german": "Fehler",
+    "turkish": "hata, yanlış"
+  },
+  {
+    "article": "der",
+    "german": "Fernseher",
+    "turkish": "televizyon"
+  },
+  {
+    "article": "der",
+    "german": "Fernsehertisch",
+    "turkish": "televizyon masası"
+  },
+  {
+    "article": "der",
+    "german": "Feuerwehrmann",
+    "turkish": "itfaiyeci (erkek)"
+  },
+  {
+    "article": "der",
+    "german": "Film",
+    "turkish": "film"
+  },
+  {
+    "article": "der",
+    "german": "Fisch",
+    "turkish": "balık"
+  },
+  {
+    "article": "der",
+    "german": "Flughafen",
+    "turkish": "havalimanı"
+  },
+  {
+    "article": "der",
+    "german": "Flur",
+    "turkish": "hol"
+  },
+  {
+    "article": "der",
+    "german": "Fluss",
+    "turkish": "nehir"
+  },
+  {
+    "article": "der",
+    "german": "Fotoapparat",
+    "turkish": "fotoğraf makinesi"
+  },
+  {
+    "article": "der",
+    "german": "Freitag",
+    "turkish": "cuma"
+  },
+  {
+    "article": "der",
+    "german": "Freund",
+    "turkish": "arkadaş"
+  },
+  {
+    "article": "der",
+    "german": "Friseur",
+    "turkish": "kuaför (erkek)"
+  },
+  {
+    "article": "der",
+    "german": "Friseursalon",
+    "turkish": "kuaför salonu"
+  },
+  {
+    "article": "der",
+    "german": "Frosch",
+    "turkish": "kurbağa"
+  },
+  {
+    "article": "der",
+    "german": "Frühling",
+    "turkish": "ilkbahar"
+  },
+  {
+    "article": "der",
+    "german": "Fuß",
+    "turkish": "ayak"
+  },
+  {
+    "article": "der",
+    "german": "Fußball",
+    "turkish": "futbol"
+  },
+  {
+    "article": "der",
+    "german": "Führerschein",
+    "turkish": "ehliyet"
+  },
+  {
+    "article": "der",
+    "german": "Füller",
+    "turkish": "mürekkepli kalem"
+  },
+  {
+    "article": "der",
+    "german": "Garten",
+    "turkish": "bahçe"
+  },
+  {
+    "article": "der",
+    "german": "Gast",
+    "turkish": "misafir"
+  },
+  {
+    "article": "der",
+    "german": "Geburtstag",
+    "turkish": "doğum günü"
+  },
+  {
+    "article": "der",
+    "german": "Geist",
+    "turkish": "ruh"
+  },
+  {
+    "article": "der",
+    "german": "Golf",
+    "turkish": "golf"
+  },
+  {
+    "article": "der",
+    "german": "Grillabend",
+    "turkish": "mangal akşamı"
+  },
+  {
+    "article": "der",
+    "german": "Großvater",
+    "turkish": "büyükbaba"
+  },
+  {
+    "article": "der",
+    "german": "Hamburger",
+    "turkish": "hamburger"
+  },
+  {
+    "article": "der",
+    "german": "Hase",
+    "turkish": "tavşan"
+  },
+  {
+    "article": "der",
+    "german": "Herbst",
+    "turkish": "sonbahar"
+  },
+  {
+    "article": "der",
+    "german": "Himmel",
+    "turkish": "gökyüzü"
+  },
+  {
+    "article": "der",
+    "german": "Hocker",
+    "turkish": "tabure"
+  },
+  {
+    "article": "der",
+    "german": "Hot-Dog",
+    "turkish": "sosisli sandviç"
+  },
+  {
+    "article": "der",
+    "german": "Hörtext",
+    "turkish": "dinleme metni"
+  },
+  {
+    "article": "der",
+    "german": "Hund",
+    "turkish": "köpek"
+  },
+  {
+    "article": "der",
+    "german": "Hut",
+    "turkish": "şapka"
+  },
+  {
+    "article": "der",
+    "german": "Igel",
+    "turkish": "kirpi"
+  },
+  {
+    "article": "der",
+    "german": "Ingenieur",
+    "turkish": "mühendis (erkek)"
+  },
+  {
+    "article": "der",
+    "german": "Januar",
+    "turkish": "ocak"
+  },
+  {
+    "article": "der",
+    "german": "Job",
+    "turkish": "iş, meslek"
+  },
+  {
+    "article": "der",
+    "german": "Journalist",
+    "turkish": "gazeteci (erkek)"
+  },
+  {
+    "article": "der",
+    "german": "Jugendliche",
+    "turkish": "ergen, genç"
+  },
+  {
+    "article": "der",
+    "german": "Juli",
+    "turkish": "temmuz"
+  },
+  {
+    "article": "der",
+    "german": "Juni",
+    "turkish": "haziran"
+  },
+  {
+    "article": "der",
+    "german": "Kaffee",
+    "turkish": "kahve"
+  },
+  {
+    "article": "der",
+    "german": "Käse",
+    "turkish": "peynir"
+  },
+  {
+    "article": "der",
+    "german": "Keks",
+    "turkish": "kurabiye"
+  },
+  {
+    "article": "der",
+    "german": "Kin",
+    "turkish": "zimmerdasçocuk odası"
+  },
+  {
+    "article": "der",
+    "german": "Klei",
+    "turkish": "schrankderkıyafet dolabı"
+  },
+  {
+    "article": "der",
+    "german": "Knopf",
+    "turkish": "düğme"
+  },
+  {
+    "article": "der",
+    "german": "Koch",
+    "turkish": "aşçı (erkek)"
+  },
+  {
+    "article": "der",
+    "german": "Koffer",
+    "turkish": "bavul, valiz"
+  },
+  {
+    "article": "der",
+    "german": "Kollege",
+    "turkish": "iş arkadaşı"
+  },
+  {
+    "article": "der",
+    "german": "Krankenpfleger",
+    "turkish": "hemşire (erkek)"
+  },
+  {
+    "article": "der",
+    "german": "Krankenwagen",
+    "turkish": "ambulans"
+  },
+  {
+    "article": "der",
+    "german": "Kuchen",
+    "turkish": "pasta"
+  },
+  {
+    "article": "der",
+    "german": "Kunstkurs",
+    "turkish": "resim kursu"
+  },
+  {
+    "article": "der",
+    "german": "Kunststoff",
+    "turkish": "plastik"
+  },
+  {
+    "article": "der",
+    "german": "Kühlschrank",
+    "turkish": "buzdolabı"
+  },
+  {
+    "article": "der",
+    "german": "Künstler",
+    "turkish": "ressam (erkek)"
+  },
+  {
+    "article": "der",
+    "german": "Laptop",
+    "turkish": "dizüstü bilgisayar"
+  },
+  {
+    "article": "der",
+    "german": "Lautsprecher",
+    "turkish": "hoparlör"
+  },
+  {
+    "article": "der",
+    "german": "Le",
+    "turkish": "dasderi"
+  },
+  {
+    "article": "der",
+    "german": "Lehrer",
+    "turkish": "öğretmen"
+  },
+  {
+    "article": "der",
+    "german": "lei",
+    "turkish": "-maalesef"
+  },
+  {
+    "article": "der",
+    "german": "Lieferant",
+    "turkish": "dağıtıcı"
+  },
+  {
+    "article": "der",
+    "german": "Lippenstift",
+    "turkish": "ruj"
+  },
+  {
+    "article": "der",
+    "german": "LKW, Lastkraftwagen",
+    "turkish": "yüksek"
+  },
+  {
+    "article": "der",
+    "german": "Löffel",
+    "turkish": "kaşık"
+  },
+  {
+    "article": "der",
+    "german": "Löwe",
+    "turkish": "aslan"
+  },
+  {
+    "article": "der",
+    "german": "Mai",
+    "turkish": "mayıs"
+  },
+  {
+    "article": "der",
+    "german": "Mann",
+    "turkish": "erkek"
+  },
+  {
+    "article": "der",
+    "german": "Mantel",
+    "turkish": "palto"
+  },
+  {
+    "article": "der",
+    "german": "Markt",
+    "turkish": "Pazar"
+  },
+  {
+    "article": "der",
+    "german": "März",
+    "turkish": "mart"
+  },
+  {
+    "article": "der",
+    "german": "Matheunterricht",
+    "turkish": "matematik dersi"
+  },
+  {
+    "article": "der",
+    "german": "Mechaniker",
+    "turkish": "mekaniker"
+  },
+  {
+    "article": "der",
+    "german": "Mensch",
+    "turkish": "insan"
+  },
+  {
+    "article": "der",
+    "german": "Mercedes",
+    "turkish": "Mercedes"
+  },
+  {
+    "article": "der",
+    "german": "Mittag",
+    "turkish": "öğlen"
+  },
+  {
+    "article": "der",
+    "german": "Mittwoch",
+    "turkish": "çarşamba"
+  },
+  {
+    "article": "der",
+    "german": "Mond",
+    "turkish": "ay"
+  },
+  {
+    "article": "der",
+    "german": "Montag",
+    "turkish": "pazartesi"
+  },
+  {
+    "article": "der",
+    "german": "Moos",
+    "turkish": "yosun"
+  },
+  {
+    "article": "der",
+    "german": "Morgen",
+    "turkish": "sabah"
+  },
+  {
+    "article": "der",
+    "german": "Möbelverkäufer",
+    "turkish": "mobilya satıcısı"
+  },
+  {
+    "article": "der",
+    "german": "Musikant",
+    "turkish": "müzisyen"
+  },
+  {
+    "article": "der",
+    "german": "Müll",
+    "turkish": "çöp"
+  },
+  {
+    "article": "der",
+    "german": "Nachmittag",
+    "turkish": "öğleden sonra"
+  },
+  {
+    "article": "der",
+    "german": "Nachtisch",
+    "turkish": "tatlı"
+  },
+  {
+    "article": "der",
+    "german": "Name",
+    "turkish": "isim"
+  },
+  {
+    "article": "der",
+    "german": "Neffe",
+    "turkish": "erkek yeğen"
+  },
+  {
+    "article": "der",
+    "german": "Norden",
+    "turkish": "kuzey"
+  },
+  {
+    "article": "der",
+    "german": "November",
+    "turkish": "kasım"
+  },
+  {
+    "article": "der",
+    "german": "Ohrring",
+    "turkish": "küpe"
+  },
+  {
+    "article": "der",
+    "german": "Oktober",
+    "turkish": "ekim"
+  },
+  {
+    "article": "der",
+    "german": "Onkel",
+    "turkish": "amca, dayı"
+  },
+  {
+    "article": "der",
+    "german": "Opa",
+    "turkish": "dede"
+  },
+  {
+    "article": "der",
+    "german": "Orangensaft",
+    "turkish": "portakal suyu"
+  },
+  {
+    "article": "der",
+    "german": "Osten",
+    "turkish": "doğu"
+  },
+  {
+    "article": "der",
+    "german": "Papagei",
+    "turkish": "papağan"
+  },
+  {
+    "article": "der",
+    "german": "Park",
+    "turkish": "park"
+  },
+  {
+    "article": "der",
+    "german": "Pass",
+    "turkish": "pasaport"
+  },
+  {
+    "article": "der",
+    "german": "Passagier",
+    "turkish": "yolcu"
+  },
+  {
+    "article": "der",
+    "german": "Patient",
+    "turkish": "hasta"
+  },
+  {
+    "article": "der",
+    "german": "Pfirsich",
+    "turkish": "şeftali"
+  },
+  {
+    "article": "der",
+    "german": "Pilz",
+    "turkish": "mantar"
+  },
+  {
+    "article": "der",
+    "german": "Pinguin",
+    "turkish": "penguen"
+  },
+  {
+    "article": "der",
+    "german": "Pirat",
+    "turkish": "korsan"
+  },
+  {
+    "article": "der",
+    "german": "Plan",
+    "turkish": "plan"
+  },
+  {
+    "article": "der",
+    "german": "Planet",
+    "turkish": "gezegen"
+  },
+  {
+    "article": "der",
+    "german": "Politiker",
+    "turkish": "politikacı"
+  },
+  {
+    "article": "der",
+    "german": "Polizist",
+    "turkish": "polis (erkek)"
+  },
+  {
+    "article": "der",
+    "german": "Porsche",
+    "turkish": "Porsche"
+  },
+  {
+    "article": "der",
+    "german": "Pullover",
+    "turkish": "kazak"
+  },
+  {
+    "article": "der",
+    "german": "Radiergummi",
+    "turkish": "silgi"
+  },
+  {
+    "article": "der",
+    "german": "Rechtsanwalt",
+    "turkish": "avukat (erkek)"
+  },
+  {
+    "article": "der",
+    "german": "Regen",
+    "turkish": "yağmur"
+  },
+  {
+    "article": "der",
+    "german": "Regenbogen",
+    "turkish": "gökkuşağı"
+  },
+  {
+    "article": "der",
+    "german": "Regenmantel",
+    "turkish": "yağmurluk"
+  },
+  {
+    "article": "der",
+    "german": "Regenschirm",
+    "turkish": "şemsiye"
+  },
+  {
+    "article": "der",
+    "german": "Reis",
+    "turkish": "pirinç, pilav"
+  },
+  {
+    "article": "der",
+    "german": "Reiseführer",
+    "turkish": "rehber"
+  },
+  {
+    "article": "der",
+    "german": "Rentner",
+    "turkish": "emekli"
+  },
+  {
+    "article": "der",
+    "german": "Ring",
+    "turkish": "yüzük"
+  },
+  {
+    "article": "der",
+    "german": "Rucksack",
+    "turkish": "sırt çantası"
+  },
+  {
+    "article": "der",
+    "german": "Salat",
+    "turkish": "silgi"
+  },
+  {
+    "article": "der",
+    "german": "Salon",
+    "turkish": "salon"
+  },
+  {
+    "article": "der",
+    "german": "Samstag",
+    "turkish": "cumartesi"
+  },
+  {
+    "article": "der",
+    "german": "Satz",
+    "turkish": "cümle"
+  },
+  {
+    "article": "der",
+    "german": "Schal",
+    "turkish": "şal"
+  },
+  {
+    "article": "der",
+    "german": "Schauspieler",
+    "turkish": "oyuncu (erkek)"
+  },
+  {
+    "article": "der",
+    "german": "schicken-gön",
+    "turkish": "mek"
+  },
+  {
+    "article": "der",
+    "german": "Schiffskapitän",
+    "turkish": "gemi kaptanı (erkek)"
+  },
+  {
+    "article": "der",
+    "german": "Schlafsack",
+    "turkish": "uyku tulumu"
+  },
+  {
+    "article": "der",
+    "german": "Schlüssel",
+    "turkish": "anahtar"
+  },
+  {
+    "article": "der",
+    "german": "Schmetterling",
+    "turkish": "kelebek"
+  },
+  {
+    "article": "der",
+    "german": "Schnee",
+    "turkish": "kar"
+  },
+  {
+    "article": "der",
+    "german": "schön",
+    "turkish": "dolap"
+  },
+  {
+    "article": "der",
+    "german": "Schrank",
+    "turkish": "yüzük"
+  },
+  {
+    "article": "der",
+    "german": "Schreibwarenladen",
+    "turkish": "kırtasiye"
+  },
+  {
+    "article": "der",
+    "german": "Schriftsteller",
+    "turkish": "yazar"
+  },
+  {
+    "article": "der",
+    "german": "Schultag",
+    "turkish": "okul günü"
+  },
+  {
+    "article": "der",
+    "german": "Schüler",
+    "turkish": "öğrenci"
+  },
+  {
+    "article": "der",
+    "german": "Schweinebraten",
+    "turkish": "domuz rostosu"
+  },
+  {
+    "article": "der",
+    "german": "See",
+    "turkish": "göl"
+  },
+  {
+    "article": "der",
+    "german": "senden-gön",
+    "turkish": "mek"
+  },
+  {
+    "article": "der",
+    "german": "September",
+    "turkish": "eylül"
+  },
+  {
+    "article": "der",
+    "german": "Sessel",
+    "turkish": "tekli koltuk"
+  },
+  {
+    "article": "der",
+    "german": "Sohn",
+    "turkish": "oğul"
+  },
+  {
+    "article": "der",
+    "german": "Sommer",
+    "turkish": "yaz"
+  },
+  {
+    "article": "der",
+    "german": "Son",
+    "turkish": "angebotdasözel indirim"
+  },
+  {
+    "article": "der",
+    "german": "Sonntag",
+    "turkish": "pazar"
+  },
+  {
+    "article": "der",
+    "german": "Sozialismus",
+    "turkish": "sosyalizm"
+  },
+  {
+    "article": "der",
+    "german": "Soziologe",
+    "turkish": "sosyolog"
+  },
+  {
+    "article": "der",
+    "german": "Spitzer",
+    "turkish": "kalemtıraş"
+  },
+  {
+    "article": "der",
+    "german": "Sport",
+    "turkish": "spor"
+  },
+  {
+    "article": "der",
+    "german": "Sprachkurs",
+    "turkish": "dil kursu"
+  },
+  {
+    "article": "der",
+    "german": "Stall",
+    "turkish": "ahır"
+  },
+  {
+    "article": "der",
+    "german": "Staubsauger",
+    "turkish": "elektrikli süpürge"
+  },
+  {
+    "article": "der",
+    "german": "Stein",
+    "turkish": "taş"
+  },
+  {
+    "article": "der",
+    "german": "Stern",
+    "turkish": "yıldız"
+  },
+  {
+    "article": "der",
+    "german": "Stift",
+    "turkish": "kalem"
+  },
+  {
+    "article": "der",
+    "german": "Strand",
+    "turkish": "sahil"
+  },
+  {
+    "article": "der",
+    "german": "Student",
+    "turkish": "üniversite öğrencisi"
+  },
+  {
+    "article": "der",
+    "german": "Stuhl",
+    "turkish": "sandalye"
+  },
+  {
+    "article": "der",
+    "german": "Supermarkt",
+    "turkish": "süpermarket"
+  },
+  {
+    "article": "der",
+    "german": "Süden",
+    "turkish": "güney"
+  },
+  {
+    "article": "der",
+    "german": "Tag",
+    "turkish": "gün"
+  },
+  {
+    "article": "der",
+    "german": "Taschenrechner",
+    "turkish": "hesap makinası"
+  },
+  {
+    "article": "der",
+    "german": "Taxifahrer",
+    "turkish": "taksi sürücüsü (erkek)"
+  },
+  {
+    "article": "der",
+    "german": "Techniker",
+    "turkish": "tekniker"
+  },
+  {
+    "article": "der",
+    "german": "Tee",
+    "turkish": "çay"
+  },
+  {
+    "article": "der",
+    "german": "Termin",
+    "turkish": "randevu"
+  },
+  {
+    "article": "der",
+    "german": "Terrorismus",
+    "turkish": "terör"
+  },
+  {
+    "article": "der",
+    "german": "Text",
+    "turkish": "metin"
+  },
+  {
+    "article": "der",
+    "german": "Tiefkühltruhedie",
+    "turkish": "in dondurucu"
+  },
+  {
+    "article": "der",
+    "german": "Tierarzt",
+    "turkish": "veteriner (erkek)"
+  },
+  {
+    "article": "der",
+    "german": "Tisch",
+    "turkish": "masa"
+  },
+  {
+    "article": "der",
+    "german": "Topf",
+    "turkish": "tencere"
+  },
+  {
+    "article": "der",
+    "german": "Traum",
+    "turkish": "rüya"
+  },
+  {
+    "article": "der",
+    "german": "Trockner",
+    "turkish": "kurutucu"
+  },
+  {
+    "article": "der",
+    "german": "Tuch",
+    "turkish": "örtü"
+  },
+  {
+    "article": "der",
+    "german": "Unterricht",
+    "turkish": "ders"
+  },
+  {
+    "article": "der",
+    "german": "unterrichten-",
+    "turkish": "s vermek"
+  },
+  {
+    "article": "der",
+    "german": "Urlaub",
+    "turkish": "tatil (tatile çıkmak vb.)"
+  },
+  {
+    "article": "der",
+    "german": "Valentinstag",
+    "turkish": "sevgililer günü"
+  },
+  {
+    "article": "der",
+    "german": "Vater",
+    "turkish": "baba"
+  },
+  {
+    "article": "der",
+    "german": "Vogel",
+    "turkish": "kuş"
+  },
+  {
+    "article": "der",
+    "german": "Volleyball",
+    "turkish": "voleybol"
+  },
+  {
+    "article": "der",
+    "german": "Vollmond",
+    "turkish": "dolunay"
+  },
+  {
+    "article": "der",
+    "german": "Wagen",
+    "turkish": "araç"
+  },
+  {
+    "article": "der",
+    "german": "Wal",
+    "turkish": "balina"
+  },
+  {
+    "article": "der",
+    "german": "Wald",
+    "turkish": "orman"
+  },
+  {
+    "article": "der",
+    "german": "Wecker",
+    "turkish": "çalar saat"
+  },
+  {
+    "article": "der",
+    "german": "Weg",
+    "turkish": "yol"
+  },
+  {
+    "article": "der",
+    "german": "Wein",
+    "turkish": "şarap"
+  },
+  {
+    "article": "der",
+    "german": "Wellensittich",
+    "turkish": "muhabbet kuşu"
+  },
+  {
+    "article": "der",
+    "german": "Weltraum",
+    "turkish": "uzay"
+  },
+  {
+    "article": "der",
+    "german": "Westen",
+    "turkish": "batı"
+  },
+  {
+    "article": "der",
+    "german": "wie",
+    "turkish": "-tekrardan"
+  },
+  {
+    "article": "der",
+    "german": "Winter",
+    "turkish": "kış"
+  },
+  {
+    "article": "der",
+    "german": "Wissenschaftler",
+    "turkish": "bilim insanı"
+  },
+  {
+    "article": "der",
+    "german": "Witz",
+    "turkish": "şaka, fıkra"
+  },
+  {
+    "article": "der",
+    "german": "Wort",
+    "turkish": "kelime"
+  },
+  {
+    "article": "der",
+    "german": "Wunsch",
+    "turkish": "dilek, istek"
+  },
+  {
+    "article": "der",
+    "german": "Zahn",
+    "turkish": "diş"
+  },
+  {
+    "article": "der",
+    "german": "Zahnarzt",
+    "turkish": "diş doktoru"
+  },
+  {
+    "article": "der",
+    "german": "Zeitschriftdie",
+    "turkish": "gi"
+  },
+  {
+    "article": "der",
+    "german": "Zoo",
+    "turkish": "hayvanat bahçesi"
+  },
+  {
+    "article": "der",
+    "german": "Zug",
+    "turkish": "tren"
+  },
+  {
+    "article": "die",
+    "german": "Adresse",
+    "turkish": "adres"
+  },
+  {
+    "article": "die",
+    "german": "Akademie",
+    "turkish": "akademi"
+  },
+  {
+    "article": "die",
+    "german": "Angst",
+    "turkish": "korku"
+  },
+  {
+    "article": "die",
+    "german": "Arbeit",
+    "turkish": "iş"
+  },
+  {
+    "article": "die",
+    "german": "Architektin",
+    "turkish": "mimar (kadın)"
+  },
+  {
+    "article": "die",
+    "german": "Ärztin",
+    "turkish": "doktor (kadın)"
+  },
+  {
+    "article": "die",
+    "german": "Aufgabe",
+    "turkish": "görev"
+  },
+  {
+    "article": "die",
+    "german": "Bäckerei",
+    "turkish": "fırın (mekan)"
+  },
+  {
+    "article": "die",
+    "german": "Badewanne",
+    "turkish": "küvet"
+  },
+  {
+    "article": "die",
+    "german": "Banane",
+    "turkish": "muz"
+  },
+  {
+    "article": "die",
+    "german": "Bar",
+    "turkish": "bar"
+  },
+  {
+    "article": "die",
+    "german": "Baustelle",
+    "turkish": "die"
+  },
+  {
+    "article": "die",
+    "german": "Begrüßung",
+    "turkish": "selamlaşma"
+  },
+  {
+    "article": "die",
+    "german": "Bestellung",
+    "turkish": "sipariş"
+  },
+  {
+    "article": "die",
+    "german": "Bibliothek",
+    "turkish": "kütüphane"
+  },
+  {
+    "article": "die",
+    "german": "Birne",
+    "turkish": "armut"
+  },
+  {
+    "article": "die",
+    "german": "Blume",
+    "turkish": "çieçek"
+  },
+  {
+    "article": "die",
+    "german": "Bluse",
+    "turkish": "bluz"
+  },
+  {
+    "article": "die",
+    "german": "Bohnen",
+    "turkish": "fasulye"
+  },
+  {
+    "article": "die",
+    "german": "Brezelder, ",
+    "turkish": "alman simidi"
+  },
+  {
+    "article": "die",
+    "german": "Brille",
+    "turkish": "gözlük"
+  },
+  {
+    "article": "die",
+    "german": "Brücke",
+    "turkish": "köprü"
+  },
+  {
+    "article": "die",
+    "german": "Buchseite",
+    "turkish": "kitap sayfası"
+  },
+  {
+    "article": "die",
+    "german": "Bushaltestelle",
+    "turkish": "otobüs durağı"
+  },
+  {
+    "article": "die",
+    "german": "Butter",
+    "turkish": "tereyağı"
+  },
+  {
+    "article": "die",
+    "german": "Cousine",
+    "turkish": "kız kuzen"
+  },
+  {
+    "article": "die",
+    "german": "Cousins",
+    "turkish": "kuzenler"
+  },
+  {
+    "article": "die",
+    "german": "Decke",
+    "turkish": "örtü"
+  },
+  {
+    "article": "die",
+    "german": "Durst",
+    "turkish": "susuzluk"
+  },
+  {
+    "article": "die",
+    "german": "Einladung",
+    "turkish": "davet, davetiye"
+  },
+  {
+    "article": "die",
+    "german": "Eins",
+    "turkish": "bir"
+  },
+  {
+    "article": "die",
+    "german": "Einsamkeit",
+    "turkish": "yalnızlık"
+  },
+  {
+    "article": "die",
+    "german": "Ellipse",
+    "turkish": "elips"
+  },
+  {
+    "article": "die",
+    "german": "Eltern",
+    "turkish": "ebeveynler"
+  },
+  {
+    "article": "die",
+    "german": "E-mail",
+    "turkish": "E-mail"
+  },
+  {
+    "article": "die",
+    "german": "Enkelin",
+    "turkish": "kız torun"
+  },
+  {
+    "article": "die",
+    "german": "Enkelkinder",
+    "turkish": "torunlar"
+  },
+  {
+    "article": "die",
+    "german": "Ente",
+    "turkish": "ördek"
+  },
+  {
+    "article": "die",
+    "german": "Erdbeere",
+    "turkish": "çilek"
+  },
+  {
+    "article": "die",
+    "german": "Erde",
+    "turkish": "dünya"
+  },
+  {
+    "article": "die",
+    "german": "Erfahrung",
+    "turkish": "deneyim"
+  },
+  {
+    "article": "die",
+    "german": "Fähre",
+    "turkish": "feribot"
+  },
+  {
+    "article": "die",
+    "german": "Familie",
+    "turkish": "aile"
+  },
+  {
+    "article": "die",
+    "german": "Farm",
+    "turkish": "çiftlik"
+  },
+  {
+    "article": "die",
+    "german": "Federmappe",
+    "turkish": "kalemlik"
+  },
+  {
+    "article": "die",
+    "german": "Ferien",
+    "turkish": "tatil"
+  },
+  {
+    "article": "die",
+    "german": "Feuerwehrfrau",
+    "turkish": "itfaiyeci (kadın)"
+  },
+  {
+    "article": "die",
+    "german": "Firma",
+    "turkish": "firma, şirket"
+  },
+  {
+    "article": "die",
+    "german": "Flagge",
+    "turkish": "bayrak"
+  },
+  {
+    "article": "die",
+    "german": "Flasche",
+    "turkish": "şişe"
+  },
+  {
+    "article": "die",
+    "german": "Fliege",
+    "turkish": "sinek"
+  },
+  {
+    "article": "die",
+    "german": "Flöte",
+    "turkish": "flüt"
+  },
+  {
+    "article": "die",
+    "german": "Frage",
+    "turkish": "soru"
+  },
+  {
+    "article": "die",
+    "german": "Frau",
+    "turkish": "kadın"
+  },
+  {
+    "article": "die",
+    "german": "Freiheit",
+    "turkish": "özgürlük"
+  },
+  {
+    "article": "die",
+    "german": "Freizeit",
+    "turkish": "boş zaman"
+  },
+  {
+    "article": "die",
+    "german": "Fremdsprachenlehrerin",
+    "turkish": "yabancı dil öğretmeni"
+  },
+  {
+    "article": "die",
+    "german": "Freunde",
+    "turkish": "arkadaşlar"
+  },
+  {
+    "article": "die",
+    "german": "Freundschaft",
+    "turkish": "arkadaşlık"
+  },
+  {
+    "article": "die",
+    "german": "Friseurin",
+    "turkish": "kuaför (kadın)"
+  },
+  {
+    "article": "die",
+    "german": "Gabel",
+    "turkish": "çatal"
+  },
+  {
+    "article": "die",
+    "german": "Gardine",
+    "turkish": "perde"
+  },
+  {
+    "article": "die",
+    "german": "Geburtstagsfeier",
+    "turkish": "doğum günü kutlaması"
+  },
+  {
+    "article": "die",
+    "german": "Geige",
+    "turkish": "keman"
+  },
+  {
+    "article": "die",
+    "german": "Geldbörse",
+    "turkish": "cüzdan"
+  },
+  {
+    "article": "die",
+    "german": "Geschichte",
+    "turkish": "hikaye"
+  },
+  {
+    "article": "die",
+    "german": "Geschwister",
+    "turkish": "kardeş"
+  },
+  {
+    "article": "die",
+    "german": "Giraffe",
+    "turkish": "zürafa"
+  },
+  {
+    "article": "die",
+    "german": "Gitarre",
+    "turkish": "gitar"
+  },
+  {
+    "article": "die",
+    "german": "Großeltern",
+    "turkish": "büyük ebeveyn"
+  },
+  {
+    "article": "die",
+    "german": "Großmutter",
+    "turkish": "büyükanne"
+  },
+  {
+    "article": "die",
+    "german": "Hand",
+    "turkish": "el"
+  },
+  {
+    "article": "die",
+    "german": "Hausaufgabe",
+    "turkish": "ev ödevi"
+  },
+  {
+    "article": "die",
+    "german": "Hausaufgaben",
+    "turkish": "ev ödevi"
+  },
+  {
+    "article": "die",
+    "german": "Hausfrau",
+    "turkish": "ev hanımı"
+  },
+  {
+    "article": "die",
+    "german": "Hausnummer",
+    "turkish": "ev numarası"
+  },
+  {
+    "article": "die",
+    "german": "Hebamme",
+    "turkish": "ebe"
+  },
+  {
+    "article": "die",
+    "german": "Heimat",
+    "turkish": "memleket"
+  },
+  {
+    "article": "die",
+    "german": "Heizung",
+    "turkish": "kalorifer"
+  },
+  {
+    "article": "die",
+    "german": "Hexe",
+    "turkish": "cadı"
+  },
+  {
+    "article": "die",
+    "german": "Hilfe",
+    "turkish": "yardım"
+  },
+  {
+    "article": "die",
+    "german": "Historie",
+    "turkish": "tarih"
+  },
+  {
+    "article": "die",
+    "german": "Hose",
+    "turkish": "pantolon"
+  },
+  {
+    "article": "die",
+    "german": "Höflichkeitsform",
+    "turkish": "Nezaket formu"
+  },
+  {
+    "article": "die",
+    "german": "Hunger",
+    "turkish": "açlık"
+  },
+  {
+    "article": "die",
+    "german": "Idee",
+    "turkish": "fikir"
+  },
+  {
+    "article": "die",
+    "german": "Information",
+    "turkish": "bilgi"
+  },
+  {
+    "article": "die",
+    "german": "Ingenieur",
+    "turkish": "mühendis (kadın)"
+  },
+  {
+    "article": "die",
+    "german": "Jacke",
+    "turkish": "ceket"
+  },
+  {
+    "article": "die",
+    "german": "Jahreszeit",
+    "turkish": "mevsim"
+  },
+  {
+    "article": "die",
+    "german": "Journalistin",
+    "turkish": "gazeteci (kadın)"
+  },
+  {
+    "article": "die",
+    "german": "Kantine",
+    "turkish": "kantin"
+  },
+  {
+    "article": "die",
+    "german": "Kappe",
+    "turkish": "şapka"
+  },
+  {
+    "article": "die",
+    "german": "Karte",
+    "turkish": "kart"
+  },
+  {
+    "article": "die",
+    "german": "Kartoffel",
+    "turkish": "patates"
+  },
+  {
+    "article": "die",
+    "german": "Kasse",
+    "turkish": "kasa"
+  },
+  {
+    "article": "die",
+    "german": "Katze",
+    "turkish": "kedi"
+  },
+  {
+    "article": "die",
+    "german": "Kellnerin",
+    "turkish": "garson (kadın)"
+  },
+  {
+    "article": "die",
+    "german": "Kenntnis",
+    "turkish": "bilgi"
+  },
+  {
+    "article": "die",
+    "german": "Kette",
+    "turkish": "kolye"
+  },
+  {
+    "article": "die",
+    "german": "Klasse",
+    "turkish": "sınıf"
+  },
+  {
+    "article": "die",
+    "german": "Kleidung",
+    "turkish": "kıyafet"
+  },
+  {
+    "article": "die",
+    "german": "komman",
+    "turkish": "ren-komut vermek"
+  },
+  {
+    "article": "die",
+    "german": "Krankenschwester",
+    "turkish": "hemşire (kadın)"
+  },
+  {
+    "article": "die",
+    "german": "Krankheit",
+    "turkish": "hastalık"
+  },
+  {
+    "article": "die",
+    "german": "Krawatte",
+    "turkish": "kravat"
+  },
+  {
+    "article": "die",
+    "german": "Kuh",
+    "turkish": "inek"
+  },
+  {
+    "article": "die",
+    "german": "Kultur",
+    "turkish": "kültür"
+  },
+  {
+    "article": "die",
+    "german": "Kunst",
+    "turkish": "sanat"
+  },
+  {
+    "article": "die",
+    "german": "Küche",
+    "turkish": "mutfak"
+  },
+  {
+    "article": "die",
+    "german": "Kündigung",
+    "turkish": "istifa"
+  },
+  {
+    "article": "die",
+    "german": "Künstlerin",
+    "turkish": "ressam (kadın)"
+  },
+  {
+    "article": "die",
+    "german": "Lampe",
+    "turkish": "lamba"
+  },
+  {
+    "article": "die",
+    "german": "Lehrerin",
+    "turkish": "kadın öğretmen"
+  },
+  {
+    "article": "die",
+    "german": "Leinwand",
+    "turkish": "beyaz perde"
+  },
+  {
+    "article": "die",
+    "german": "Leute",
+    "turkish": "insanlar"
+  },
+  {
+    "article": "die",
+    "german": "Lieblingsfarbe",
+    "turkish": "favori renk"
+  },
+  {
+    "article": "die",
+    "german": "Lieblingszahl",
+    "turkish": "favori sayı"
+  },
+  {
+    "article": "die",
+    "german": "Limonade",
+    "turkish": "limonata"
+  },
+  {
+    "article": "die",
+    "german": "Lust",
+    "turkish": "heves, istek"
+  },
+  {
+    "article": "die",
+    "german": "Mark",
+    "turkish": "Mark"
+  },
+  {
+    "article": "die",
+    "german": "Marmelade",
+    "turkish": "reçel"
+  },
+  {
+    "article": "die",
+    "german": "Maske",
+    "turkish": "maske"
+  },
+  {
+    "article": "die",
+    "german": "Maus",
+    "turkish": "fare"
+  },
+  {
+    "article": "die",
+    "german": "Mentalität",
+    "turkish": "zihniyet"
+  },
+  {
+    "article": "die",
+    "german": "Messe",
+    "turkish": "fuar"
+  },
+  {
+    "article": "die",
+    "german": "Miete",
+    "turkish": "kira"
+  },
+  {
+    "article": "die",
+    "german": "Mitternacht",
+    "turkish": "gece yarısı"
+  },
+  {
+    "article": "die",
+    "german": "Musik",
+    "turkish": "müzik"
+  },
+  {
+    "article": "die",
+    "german": "Mutter",
+    "turkish": "anne"
+  },
+  {
+    "article": "die",
+    "german": "Mülltonne",
+    "turkish": "çöp konteyneri"
+  },
+  {
+    "article": "die",
+    "german": "Nacht",
+    "turkish": "gece"
+  },
+  {
+    "article": "die",
+    "german": "Nase",
+    "turkish": "burun"
+  },
+  {
+    "article": "die",
+    "german": "Natur",
+    "turkish": "doğa"
+  },
+  {
+    "article": "die",
+    "german": "Nelke",
+    "turkish": "karanfil"
+  },
+  {
+    "article": "die",
+    "german": "Nichte",
+    "turkish": "kız yeğen"
+  },
+  {
+    "article": "die",
+    "german": "Note",
+    "turkish": "not"
+  },
+  {
+    "article": "die",
+    "german": "Null",
+    "turkish": "sıfır"
+  },
+  {
+    "article": "die",
+    "german": "Nummer",
+    "turkish": "numara"
+  },
+  {
+    "article": "die",
+    "german": "Obsttorte",
+    "turkish": "meyveli pasta"
+  },
+  {
+    "article": "die",
+    "german": "Olive",
+    "turkish": "zeytin"
+  },
+  {
+    "article": "die",
+    "german": "Oma",
+    "turkish": "anneanne, babaanne"
+  },
+  {
+    "article": "die",
+    "german": "Orange",
+    "turkish": "portakal"
+  },
+  {
+    "article": "die",
+    "german": "Panik",
+    "turkish": "panik"
+  },
+  {
+    "article": "die",
+    "german": "Parkplatz",
+    "turkish": "park yeri"
+  },
+  {
+    "article": "die",
+    "german": "Party",
+    "turkish": "parti"
+  },
+  {
+    "article": "die",
+    "german": "Pause",
+    "turkish": "mola, teneffüs"
+  },
+  {
+    "article": "die",
+    "german": "Petersilie",
+    "turkish": "maydanoz"
+  },
+  {
+    "article": "die",
+    "german": "Pflanze",
+    "turkish": "bitki"
+  },
+  {
+    "article": "die",
+    "german": "Pizza",
+    "turkish": "pizza"
+  },
+  {
+    "article": "die",
+    "german": "Politik",
+    "turkish": "politika"
+  },
+  {
+    "article": "die",
+    "german": "Polizeistation",
+    "turkish": "polis"
+  },
+  {
+    "article": "die",
+    "german": "Pommes",
+    "turkish": "patates kızartması"
+  },
+  {
+    "article": "die",
+    "german": "Post",
+    "turkish": "postane"
+  },
+  {
+    "article": "die",
+    "german": "Prüfung",
+    "turkish": "sınav"
+  },
+  {
+    "article": "die",
+    "german": "Puppe",
+    "turkish": "oyuncak bebek"
+  },
+  {
+    "article": "die",
+    "german": "Qualle",
+    "turkish": "deniz anası"
+  },
+  {
+    "article": "die",
+    "german": "Ra",
+    "turkish": "rgummidersilgi"
+  },
+  {
+    "article": "die",
+    "german": "Realität",
+    "turkish": "gerçek"
+  },
+  {
+    "article": "die",
+    "german": "Rechnung",
+    "turkish": "fatura"
+  },
+  {
+    "article": "die",
+    "german": "Rechtsanwältin",
+    "turkish": "avukat (kadın)"
+  },
+  {
+    "article": "die",
+    "german": "Reise",
+    "turkish": "seyahat"
+  },
+  {
+    "article": "die",
+    "german": "Rose",
+    "turkish": "gül"
+  },
+  {
+    "article": "die",
+    "german": "Schauspielerin",
+    "turkish": "oyuncu (kadın)"
+  },
+  {
+    "article": "die",
+    "german": "Schlange",
+    "turkish": "yılan"
+  },
+  {
+    "article": "die",
+    "german": "Schokolade",
+    "turkish": "çikolata"
+  },
+  {
+    "article": "die",
+    "german": "Schuhe",
+    "turkish": "ayakkabı"
+  },
+  {
+    "article": "die",
+    "german": "Schule",
+    "turkish": "okul"
+  },
+  {
+    "article": "die",
+    "german": "Schultasche",
+    "turkish": "okul çantası"
+  },
+  {
+    "article": "die",
+    "german": "Schüler",
+    "turkish": "öğrenciler"
+  },
+  {
+    "article": "die",
+    "german": "Schweiz",
+    "turkish": "İsviçre"
+  },
+  {
+    "article": "die",
+    "german": "Schwester",
+    "turkish": "kız kardeş, abla"
+  },
+  {
+    "article": "die",
+    "german": "Seife",
+    "turkish": "sabun"
+  },
+  {
+    "article": "die",
+    "german": "Sektretärin",
+    "turkish": "sekreter (kadın)"
+  },
+  {
+    "article": "die",
+    "german": "Socke",
+    "turkish": "çorap"
+  },
+  {
+    "article": "die",
+    "german": "Sommerferien",
+    "turkish": "yaz tatili"
+  },
+  {
+    "article": "die",
+    "german": "Sonne",
+    "turkish": "güneş"
+  },
+  {
+    "article": "die",
+    "german": "Sonnenbrille",
+    "turkish": "güneş gözlüğü"
+  },
+  {
+    "article": "die",
+    "german": "Sorge",
+    "turkish": "telaş"
+  },
+  {
+    "article": "die",
+    "german": "Sprache",
+    "turkish": "dil"
+  },
+  {
+    "article": "die",
+    "german": "Sprachschule",
+    "turkish": "dil okulu"
+  },
+  {
+    "article": "die",
+    "german": "Stadt",
+    "turkish": "şehir"
+  },
+  {
+    "article": "die",
+    "german": "Straßenbahn",
+    "turkish": "tramvay"
+  },
+  {
+    "article": "die",
+    "german": "Straßennummer",
+    "turkish": "sokak numarası"
+  },
+  {
+    "article": "die",
+    "german": "stu",
+    "turkish": "ren-üniversite okumak"
+  },
+  {
+    "article": "die",
+    "german": "Stunde",
+    "turkish": "saat"
+  },
+  {
+    "article": "die",
+    "german": "Suppe",
+    "turkish": "çorba"
+  },
+  {
+    "article": "die",
+    "german": "Szene",
+    "turkish": "film sahnesi"
+  },
+  {
+    "article": "die",
+    "german": "Tabelle",
+    "turkish": "tablo"
+  },
+  {
+    "article": "die",
+    "german": "Tafel",
+    "turkish": "okul tahtası"
+  },
+  {
+    "article": "die",
+    "german": "Tante",
+    "turkish": "teyze, hala"
+  },
+  {
+    "article": "die",
+    "german": "Tasche",
+    "turkish": "Çanta"
+  },
+  {
+    "article": "die",
+    "german": "Taschenlampe",
+    "turkish": "el feneri"
+  },
+  {
+    "article": "die",
+    "german": "Tasse",
+    "turkish": "fincan"
+  },
+  {
+    "article": "die",
+    "german": "Tastatur",
+    "turkish": "klavye"
+  },
+  {
+    "article": "die",
+    "german": "Telefonummer",
+    "turkish": "telefon numarası"
+  },
+  {
+    "article": "die",
+    "german": "Thermosflasche",
+    "turkish": "termos"
+  },
+  {
+    "article": "die",
+    "german": "Tiefkühltruhe",
+    "turkish": "derin dondurucu"
+  },
+  {
+    "article": "die",
+    "german": "Tierärztin",
+    "turkish": "veteriner (kadın)"
+  },
+  {
+    "article": "die",
+    "german": "Tierarztpraxis",
+    "turkish": "veteriner hekimliği"
+  },
+  {
+    "article": "die",
+    "german": "Tischlampe",
+    "turkish": "masa lambası"
+  },
+  {
+    "article": "die",
+    "german": "Tochter",
+    "turkish": "kız evlat"
+  },
+  {
+    "article": "die",
+    "german": "Treppe",
+    "turkish": "merdiven"
+  },
+  {
+    "article": "die",
+    "german": "Tür",
+    "turkish": "kapı"
+  },
+  {
+    "article": "die",
+    "german": "Türkei",
+    "turkish": "Türkiye"
+  },
+  {
+    "article": "die",
+    "german": "Türkisch Lira",
+    "turkish": "Türk lirası"
+  },
+  {
+    "article": "die",
+    "german": "Tüte",
+    "turkish": "poşet"
+  },
+  {
+    "article": "die",
+    "german": "Uhr",
+    "turkish": "saat"
+  },
+  {
+    "article": "die",
+    "german": "Uniform",
+    "turkish": "üniforma"
+  },
+  {
+    "article": "die",
+    "german": "Universität",
+    "turkish": "Üniversite"
+  },
+  {
+    "article": "die",
+    "german": "Unterbahn",
+    "turkish": "metro"
+  },
+  {
+    "article": "die",
+    "german": "Übung",
+    "turkish": "alıştırma"
+  },
+  {
+    "article": "die",
+    "german": "Vase",
+    "turkish": "vazo"
+  },
+  {
+    "article": "die",
+    "german": "ver",
+    "turkish": "nen-kazanmak (para)"
+  },
+  {
+    "article": "die",
+    "german": "Verkäuferin",
+    "turkish": "satıcı (kadın)"
+  },
+  {
+    "article": "die",
+    "german": "Verkehrsmitteln",
+    "turkish": "ulaşım araçları"
+  },
+  {
+    "article": "die",
+    "german": "Verwandte",
+    "turkish": "akraba"
+  },
+  {
+    "article": "die",
+    "german": "Vier",
+    "turkish": "dört"
+  },
+  {
+    "article": "die",
+    "german": "Wahl",
+    "turkish": "seçim"
+  },
+  {
+    "article": "die",
+    "german": "Wand",
+    "turkish": "duvar"
+  },
+  {
+    "article": "die",
+    "german": "Wanduhr",
+    "turkish": "duvar saati"
+  },
+  {
+    "article": "die",
+    "german": "Wäsche",
+    "turkish": "çamaşır"
+  },
+  {
+    "article": "die",
+    "german": "Waschmaschine",
+    "turkish": "çamaşır makinesi"
+  },
+  {
+    "article": "die",
+    "german": "Wasserflasche",
+    "turkish": "su şişesi"
+  },
+  {
+    "article": "die",
+    "german": "Welle",
+    "turkish": "dalga"
+  },
+  {
+    "article": "die",
+    "german": "Welt",
+    "turkish": "dünya"
+  },
+  {
+    "article": "die",
+    "german": "Weltreise",
+    "turkish": "dünya seyahati"
+  },
+  {
+    "article": "die",
+    "german": "Werkstatt",
+    "turkish": "atölye"
+  },
+  {
+    "article": "die",
+    "german": "Wohnung",
+    "turkish": "daire, ev"
+  },
+  {
+    "article": "die",
+    "german": "Wolke",
+    "turkish": "bulut"
+  },
+  {
+    "article": "die",
+    "german": "Wolle",
+    "turkish": "yün"
+  },
+  {
+    "article": "die",
+    "german": "Wurst",
+    "turkish": "sosis, sucuk"
+  },
+  {
+    "article": "die",
+    "german": "Yacht",
+    "turkish": "yat"
+  },
+  {
+    "article": "die",
+    "german": "Yoga",
+    "turkish": "yoga"
+  },
+  {
+    "article": "die",
+    "german": "Zahl",
+    "turkish": "sayı"
+  },
+  {
+    "article": "die",
+    "german": "Zecke",
+    "turkish": "kene"
+  },
+  {
+    "article": "die",
+    "german": "Zeit",
+    "turkish": "zaman"
+  },
+  {
+    "article": "die",
+    "german": "Zeitschrift",
+    "turkish": "dergi"
+  },
+  {
+    "article": "die",
+    "german": "Zeitung",
+    "turkish": "gazete"
+  },
+  {
+    "article": "die",
+    "german": "Zigarette",
+    "turkish": "sigara"
+  },
+  {
+    "article": "die",
+    "german": "Zitrone",
+    "turkish": "limon"
+  },
+  {
+    "article": "das",
+    "german": "Abendessen",
+    "turkish": "akşam yemeği"
+  },
+  {
+    "article": "das",
+    "german": "Akku",
+    "turkish": "şarj"
+  },
+  {
+    "article": "das",
+    "german": "Album",
+    "turkish": "albüm"
+  },
+  {
+    "article": "das",
+    "german": "Auge",
+    "turkish": "göz"
+  },
+  {
+    "article": "das",
+    "german": "Ausland",
+    "turkish": "yurtdışı"
+  },
+  {
+    "article": "das",
+    "german": "Auto",
+    "turkish": "araba"
+  },
+  {
+    "article": "das",
+    "german": "Baby",
+    "turkish": "bebek"
+  },
+  {
+    "article": "das",
+    "german": "Badezimmer",
+    "turkish": "banyo"
+  },
+  {
+    "article": "das",
+    "german": "Bargeld",
+    "turkish": "nakit para"
+  },
+  {
+    "article": "das",
+    "german": "Bett",
+    "turkish": "yatak"
+  },
+  {
+    "article": "das",
+    "german": "Bier",
+    "turkish": "bira"
+  },
+  {
+    "article": "das",
+    "german": "Bild",
+    "turkish": "resim"
+  },
+  {
+    "article": "das",
+    "german": "Blatt",
+    "turkish": "yaprak"
+  },
+  {
+    "article": "das",
+    "german": "Boot",
+    "turkish": "bot"
+  },
+  {
+    "article": "das",
+    "german": "Brot",
+    "turkish": "ekmek"
+  },
+  {
+    "article": "das",
+    "german": "Buch",
+    "turkish": "kitap"
+  },
+  {
+    "article": "das",
+    "german": "Bücherregal",
+    "turkish": "kitaplık"
+  },
+  {
+    "article": "das",
+    "german": "Büro",
+    "turkish": "büro"
+  },
+  {
+    "article": "das",
+    "german": "Cafe",
+    "turkish": "kafe"
+  },
+  {
+    "article": "das",
+    "german": "Calcium",
+    "turkish": "kalsiyum"
+  },
+  {
+    "article": "das",
+    "german": "Dach",
+    "turkish": "çatı"
+  },
+  {
+    "article": "das",
+    "german": "Deutschbuch",
+    "turkish": "almanca kitabı"
+  },
+  {
+    "article": "das",
+    "german": "Dokument",
+    "turkish": "dökuman, belge"
+  },
+  {
+    "article": "das",
+    "german": "Dorf",
+    "turkish": "köy"
+  },
+  {
+    "article": "das",
+    "german": "Ei",
+    "turkish": "yumurta"
+  },
+  {
+    "article": "das",
+    "german": "Eigentum",
+    "turkish": "özel mülkiyet"
+  },
+  {
+    "article": "das",
+    "german": "Einkaufszentrum",
+    "turkish": "Alışveriş merkezi"
+  },
+  {
+    "article": "das",
+    "german": "Eis",
+    "turkish": "buz, dondurma"
+  },
+  {
+    "article": "das",
+    "german": "Ergebnis",
+    "turkish": "sonuç"
+  },
+  {
+    "article": "das",
+    "german": "Erlebnis",
+    "turkish": "macera"
+  },
+  {
+    "article": "das",
+    "german": "Experiment",
+    "turkish": "deney"
+  },
+  {
+    "article": "das",
+    "german": "Familienmitglied",
+    "turkish": "aile üyesi"
+  },
+  {
+    "article": "das",
+    "german": "Fenster",
+    "turkish": "pencere"
+  },
+  {
+    "article": "das",
+    "german": "Fest",
+    "turkish": "bayram"
+  },
+  {
+    "article": "das",
+    "german": "Feuer",
+    "turkish": "ateş"
+  },
+  {
+    "article": "das",
+    "german": "Feuerzeug",
+    "turkish": "çakmak"
+  },
+  {
+    "article": "das",
+    "german": "Fleisch",
+    "turkish": "et"
+  },
+  {
+    "article": "das",
+    "german": "Flugzeug",
+    "turkish": "uçak"
+  },
+  {
+    "article": "das",
+    "german": "Foto",
+    "turkish": "fotoğraf"
+  },
+  {
+    "article": "das",
+    "german": "Frühstück",
+    "turkish": "kahvaltı"
+  },
+  {
+    "article": "das",
+    "german": "Gebäude",
+    "turkish": "bina"
+  },
+  {
+    "article": "das",
+    "german": "Geburtstagsgeschenk",
+    "turkish": "doğum günü hediyesi"
+  },
+  {
+    "article": "das",
+    "german": "Gedicht",
+    "turkish": "şiir"
+  },
+  {
+    "article": "das",
+    "german": "Geld",
+    "turkish": "para"
+  },
+  {
+    "article": "das",
+    "german": "Geldautomat",
+    "turkish": "ATM"
+  },
+  {
+    "article": "das",
+    "german": "Gemüse",
+    "turkish": "sebze"
+  },
+  {
+    "article": "das",
+    "german": "Geschenk",
+    "turkish": "hediye"
+  },
+  {
+    "article": "das",
+    "german": "Gesicht",
+    "turkish": "yüz"
+  },
+  {
+    "article": "das",
+    "german": "Getränk",
+    "turkish": "içecek"
+  },
+  {
+    "article": "das",
+    "german": "Glas",
+    "turkish": "cam, cam bardak"
+  },
+  {
+    "article": "das",
+    "german": "Gras",
+    "turkish": "çim"
+  },
+  {
+    "article": "das",
+    "german": "Gymnasium",
+    "turkish": "lise"
+  },
+  {
+    "article": "das",
+    "german": "Haar",
+    "turkish": "saç"
+  },
+  {
+    "article": "das",
+    "german": "Handy",
+    "turkish": "cep telefonu"
+  },
+  {
+    "article": "das",
+    "german": "Haus",
+    "turkish": "ev"
+  },
+  {
+    "article": "das",
+    "german": "Haustier",
+    "turkish": "evcil hayvan"
+  },
+  {
+    "article": "das",
+    "german": "Heft",
+    "turkish": "defter"
+  },
+  {
+    "article": "das",
+    "german": "Herz",
+    "turkish": "kalp"
+  },
+  {
+    "article": "das",
+    "german": "Hobby",
+    "turkish": "hobi"
+  },
+  {
+    "article": "das",
+    "german": "Holz",
+    "turkish": "tahta"
+  },
+  {
+    "article": "das",
+    "german": "Hotel",
+    "turkish": "otel"
+  },
+  {
+    "article": "das",
+    "german": "Irrtum",
+    "turkish": "yanılma"
+  },
+  {
+    "article": "das",
+    "german": "Kaninchen",
+    "turkish": "tavşan"
+  },
+  {
+    "article": "das",
+    "german": "Käsebrot",
+    "turkish": "peynirli ekmek"
+  },
+  {
+    "article": "das",
+    "german": "Kind",
+    "turkish": "çocuk"
+  },
+  {
+    "article": "das",
+    "german": "Kinderzimmer",
+    "turkish": "çocuk odası"
+  },
+  {
+    "article": "das",
+    "german": "Kino",
+    "turkish": "sinema"
+  },
+  {
+    "article": "das",
+    "german": "Kissen",
+    "turkish": "yastık"
+  },
+  {
+    "article": "das",
+    "german": "Klavier",
+    "turkish": "piyano"
+  },
+  {
+    "article": "das",
+    "german": "Kleid",
+    "turkish": "elbise"
+  },
+  {
+    "article": "das",
+    "german": "Konzert",
+    "turkish": "konser"
+  },
+  {
+    "article": "das",
+    "german": "Krankenhaus",
+    "turkish": "hastane"
+  },
+  {
+    "article": "das",
+    "german": "Krokodil",
+    "turkish": "timsah"
+  },
+  {
+    "article": "das",
+    "german": "Küken",
+    "turkish": "civciv"
+  },
+  {
+    "article": "das",
+    "german": "Land",
+    "turkish": "ülke"
+  },
+  {
+    "article": "das",
+    "german": "Leben",
+    "turkish": "hayat, yaşam"
+  },
+  {
+    "article": "das",
+    "german": "Leder",
+    "turkish": "deri"
+  },
+  {
+    "article": "das",
+    "german": "Lesebuch",
+    "turkish": "okuma kitabı"
+  },
+  {
+    "article": "das",
+    "german": "Licht",
+    "turkish": "ışık"
+  },
+  {
+    "article": "das",
+    "german": "Lieblingsessen",
+    "turkish": "favori yemek"
+  },
+  {
+    "article": "das",
+    "german": "Lied",
+    "turkish": "şarkı"
+  },
+  {
+    "article": "das",
+    "german": "Lineal",
+    "turkish": "cetvel"
+  },
+  {
+    "article": "das",
+    "german": "Mädchen",
+    "turkish": "kız çocuğu"
+  },
+  {
+    "article": "das",
+    "german": "Medikament",
+    "turkish": "ilaç"
+  },
+  {
+    "article": "das",
+    "german": "Meer",
+    "turkish": "deniz"
+  },
+  {
+    "article": "das",
+    "german": "Metall",
+    "turkish": "metal"
+  },
+  {
+    "article": "das",
+    "german": "Metzgerei",
+    "turkish": "kasap (sorulacak)"
+  },
+  {
+    "article": "das",
+    "german": "Mittagessen",
+    "turkish": "öğle yemeği"
+  },
+  {
+    "article": "das",
+    "german": "Möbelhaus",
+    "turkish": "mobilya dükkanı"
+  },
+  {
+    "article": "das",
+    "german": "Museum",
+    "turkish": "müze"
+  },
+  {
+    "article": "das",
+    "german": "Obst",
+    "turkish": "meyve"
+  },
+  {
+    "article": "das",
+    "german": "Ohr",
+    "turkish": "kulak"
+  },
+  {
+    "article": "das",
+    "german": "Panda",
+    "turkish": "panda"
+  },
+  {
+    "article": "das",
+    "german": "Papier",
+    "turkish": "kağıt"
+  },
+  {
+    "article": "das",
+    "german": "Pferd",
+    "turkish": "at"
+  },
+  {
+    "article": "das",
+    "german": "Praktikum",
+    "turkish": "staj"
+  },
+  {
+    "article": "das",
+    "german": "Problem",
+    "turkish": "problem"
+  },
+  {
+    "article": "das",
+    "german": "Projekt",
+    "turkish": "proje"
+  },
+  {
+    "article": "das",
+    "german": "Radio",
+    "turkish": "radyo"
+  },
+  {
+    "article": "das",
+    "german": "Rathaus",
+    "turkish": "belediye binası"
+  },
+  {
+    "article": "das",
+    "german": "Recht",
+    "turkish": "hak"
+  },
+  {
+    "article": "das",
+    "german": "Referat",
+    "turkish": "sunum"
+  },
+  {
+    "article": "das",
+    "german": "Restaurant",
+    "turkish": "lokanta, restoran"
+  },
+  {
+    "article": "das",
+    "german": "Schiff",
+    "turkish": "gemi"
+  },
+  {
+    "article": "das",
+    "german": "Schlafzimmer",
+    "turkish": "yatak odası"
+  },
+  {
+    "article": "das",
+    "german": "Schulmaterial",
+    "turkish": "okul materyali"
+  },
+  {
+    "article": "das",
+    "german": "Schwimmbad",
+    "turkish": "havuz"
+  },
+  {
+    "article": "das",
+    "german": "Schwimmen",
+    "turkish": "yüzme"
+  },
+  {
+    "article": "das",
+    "german": "Sofa",
+    "turkish": "koltuk"
+  },
+  {
+    "article": "das",
+    "german": "Sonderangebot",
+    "turkish": "özel indirim"
+  },
+  {
+    "article": "das",
+    "german": "Spielzeugauto",
+    "turkish": "oyuncak araba"
+  },
+  {
+    "article": "das",
+    "german": "Sterlin",
+    "turkish": "Sterlin"
+  },
+  {
+    "article": "das",
+    "german": "Taschengeld",
+    "turkish": "harçlık"
+  },
+  {
+    "article": "das",
+    "german": "Taxi",
+    "turkish": "taksi"
+  },
+  {
+    "article": "das",
+    "german": "Team",
+    "turkish": "takım"
+  },
+  {
+    "article": "das",
+    "german": "Telefon",
+    "turkish": "telefon"
+  },
+  {
+    "article": "das",
+    "german": "Theater",
+    "turkish": "tiyatro"
+  },
+  {
+    "article": "das",
+    "german": "Ticket",
+    "turkish": "bilet"
+  },
+  {
+    "article": "das",
+    "german": "Tier",
+    "turkish": "hayvan"
+  },
+  {
+    "article": "das",
+    "german": "T-shirt",
+    "turkish": "tişört"
+  },
+  {
+    "article": "das",
+    "german": "Visum",
+    "turkish": "vize"
+  },
+  {
+    "article": "das",
+    "german": "Wasser",
+    "turkish": "su"
+  },
+  {
+    "article": "das",
+    "german": "Wetter",
+    "turkish": "hava"
+  },
+  {
+    "article": "das",
+    "german": "Wochenende",
+    "turkish": "hafta sonu"
+  },
+  {
+    "article": "das",
+    "german": "Wörterbuch",
+    "turkish": "sözlük"
+  },
+  {
+    "article": "das",
+    "german": "Xylophon",
+    "turkish": "ksilofon"
+  },
+  {
+    "article": "das",
+    "german": "Zahnschmerzen",
+    "turkish": "diş ağrısı"
+  },
+  {
+    "article": "das",
+    "german": "Zeichen",
+    "turkish": "işaret"
+  },
+  {
+    "article": "das",
+    "german": "Zeugnis",
+    "turkish": "karne"
+  },
+  {
+    "article": "das",
+    "german": "Zimmer",
+    "turkish": "oda"
+  },
+  {
+    "article": "-",
+    "german": "abfahren",
+    "turkish": "(araçla) yola çıkmak"
+  },
+  {
+    "article": "-",
+    "german": "abgeben",
+    "turkish": "teslim etmek"
+  },
+  {
+    "article": "-",
+    "german": "abholen",
+    "turkish": "teslim almak (bir yerden bir şeyi)"
+  },
+  {
+    "article": "-",
+    "german": "abnehmen",
+    "turkish": "kilo vermek"
+  },
+  {
+    "article": "-",
+    "german": "abschreiben",
+    "turkish": "yazmak"
+  },
+  {
+    "article": "-",
+    "german": "absolvieren",
+    "turkish": "üniversiteden mezun olmak"
+  },
+  {
+    "article": "-",
+    "german": "adoptieren",
+    "turkish": "sahiplenmek"
+  },
+  {
+    "article": "-",
+    "german": "alleine",
+    "turkish": "yalnız"
+  },
+  {
+    "article": "-",
+    "german": "alles",
+    "turkish": "her şey"
+  },
+  {
+    "article": "-",
+    "german": "als",
+    "turkish": "olarak"
+  },
+  {
+    "article": "-",
+    "german": "alt",
+    "turkish": "eski, yaşlı"
+  },
+  {
+    "article": "-",
+    "german": "an",
+    "turkish": "bitişiğinde"
+  },
+  {
+    "article": "-",
+    "german": "andere",
+    "turkish": "farklı"
+  },
+  {
+    "article": "-",
+    "german": "anfangen",
+    "turkish": "başlamak"
+  },
+  {
+    "article": "-",
+    "german": "Ankommen",
+    "turkish": "varmak"
+  },
+  {
+    "article": "-",
+    "german": "anlassen",
+    "turkish": "(elektronik bir şeyi) açık bırakmak"
+  },
+  {
+    "article": "-",
+    "german": "anmachen",
+    "turkish": "açmak (elektronik)"
+  },
+  {
+    "article": "-",
+    "german": "anrufen",
+    "turkish": "(telefon ile) aramak"
+  },
+  {
+    "article": "-",
+    "german": "antworten",
+    "turkish": "cevap vermek"
+  },
+  {
+    "article": "-",
+    "german": "anziehen",
+    "turkish": "giyinmek"
+  },
+  {
+    "article": "-",
+    "german": "arbeiten",
+    "turkish": "çalışmak (bir işte)"
+  },
+  {
+    "article": "-",
+    "german": "auf",
+    "turkish": "üstünde"
+  },
+  {
+    "article": "-",
+    "german": "Auf Wiedersehen!",
+    "turkish": "Görüşmek Üzere!"
+  },
+  {
+    "article": "-",
+    "german": "aufgeben",
+    "turkish": "pes etmek"
+  },
+  {
+    "article": "-",
+    "german": "aufhängen",
+    "turkish": "asmak"
+  },
+  {
+    "article": "-",
+    "german": "aufhören",
+    "turkish": "bitirmek"
+  },
+  {
+    "article": "-",
+    "german": "aufräumen",
+    "turkish": "toplamak"
+  },
+  {
+    "article": "-",
+    "german": "aufschlagen",
+    "turkish": "açmak (kitap,defter)"
+  },
+  {
+    "article": "-",
+    "german": "aufstehen",
+    "turkish": "ayağa kalkmak"
+  },
+  {
+    "article": "-",
+    "german": "aufwachen",
+    "turkish": "uyanmak"
+  },
+  {
+    "article": "-",
+    "german": "aufwecken",
+    "turkish": "uyandırmak"
+  },
+  {
+    "article": "-",
+    "german": "ausdrücken",
+    "turkish": "kendini ifade etmek"
+  },
+  {
+    "article": "-",
+    "german": "ausmachen",
+    "turkish": "(elektronik alet) kapatmak (sorulacak)"
+  },
+  {
+    "article": "-",
+    "german": "aussehen",
+    "turkish": "görünmek"
+  },
+  {
+    "article": "-",
+    "german": "beeilen",
+    "turkish": "acele etmek"
+  },
+  {
+    "article": "-",
+    "german": "befinden",
+    "turkish": "bulunmak"
+  },
+  {
+    "article": "-",
+    "german": "befördern",
+    "turkish": "taşımak"
+  },
+  {
+    "article": "-",
+    "german": "beginnen",
+    "turkish": "başlamak"
+  },
+  {
+    "article": "-",
+    "german": "begrüßen",
+    "turkish": "selamlamak"
+  },
+  {
+    "article": "-",
+    "german": "bei",
+    "turkish": "-de, -da"
+  },
+  {
+    "article": "-",
+    "german": "benötigen",
+    "turkish": "ihtiyacı olmak"
+  },
+  {
+    "article": "-",
+    "german": "bequem",
+    "turkish": "rahat"
+  },
+  {
+    "article": "-",
+    "german": "beruflich",
+    "turkish": "mesleki"
+  },
+  {
+    "article": "-",
+    "german": "berühmt",
+    "turkish": "ünlü"
+  },
+  {
+    "article": "-",
+    "german": "beschreiben",
+    "turkish": "tanımlamak"
+  },
+  {
+    "article": "-",
+    "german": "besichtigen",
+    "turkish": "gezip görmek"
+  },
+  {
+    "article": "-",
+    "german": "besser",
+    "turkish": "daha iyi"
+  },
+  {
+    "article": "-",
+    "german": "bestehen",
+    "turkish": "geçmek, kazanmak"
+  },
+  {
+    "article": "-",
+    "german": "besuchen",
+    "turkish": "ziyaret etmek"
+  },
+  {
+    "article": "-",
+    "german": "betreten",
+    "turkish": "ayak basmak, girmek"
+  },
+  {
+    "article": "-",
+    "german": "bewegen",
+    "turkish": "hareket etmek"
+  },
+  {
+    "article": "-",
+    "german": "bewölkt",
+    "turkish": "bulutlu"
+  },
+  {
+    "article": "-",
+    "german": "bezahlen",
+    "turkish": "ödemek"
+  },
+  {
+    "article": "-",
+    "german": "billig",
+    "turkish": "ucuz"
+  },
+  {
+    "article": "-",
+    "german": "bitte",
+    "turkish": "rica ederim , lütfen"
+  },
+  {
+    "article": "-",
+    "german": "bitten",
+    "turkish": "rica etmek"
+  },
+  {
+    "article": "-",
+    "german": "blau",
+    "turkish": "mavi"
+  },
+  {
+    "article": "-",
+    "german": "bleiben",
+    "turkish": "kalmak"
+  },
+  {
+    "article": "-",
+    "german": "brauchen",
+    "turkish": "ihtiyacı olmak"
+  },
+  {
+    "article": "-",
+    "german": "braun",
+    "turkish": "kahverengi"
+  },
+  {
+    "article": "-",
+    "german": "breit",
+    "turkish": "geniş"
+  },
+  {
+    "article": "-",
+    "german": "brennen",
+    "turkish": "yanmak"
+  },
+  {
+    "article": "-",
+    "german": "bringen",
+    "turkish": "getirmek"
+  },
+  {
+    "article": "-",
+    "german": "buchen",
+    "turkish": "rezervasyon yapmak"
+  },
+  {
+    "article": "-",
+    "german": "bunt",
+    "turkish": "renkli"
+  },
+  {
+    "article": "-",
+    "german": "cool",
+    "turkish": "havalı"
+  },
+  {
+    "article": "-",
+    "german": "danach",
+    "turkish": "sonra"
+  },
+  {
+    "article": "-",
+    "german": "danke",
+    "turkish": "teşekkür ederim, teşekkürler"
+  },
+  {
+    "article": "-",
+    "german": "danken",
+    "turkish": "teşekkür etmek"
+  },
+  {
+    "article": "-",
+    "german": "dein",
+    "turkish": "senin"
+  },
+  {
+    "article": "-",
+    "german": "denken",
+    "turkish": "düşünmek"
+  },
+  {
+    "article": "-",
+    "german": "denn",
+    "turkish": "çünkü, ki"
+  },
+  {
+    "article": "-",
+    "german": "Deutschland",
+    "turkish": "Almanya"
+  },
+  {
+    "article": "-",
+    "german": "dich",
+    "turkish": "seni"
+  },
+  {
+    "article": "-",
+    "german": "dir",
+    "turkish": "sana"
+  },
+  {
+    "article": "-",
+    "german": "draußen",
+    "turkish": "dışarı"
+  },
+  {
+    "article": "-",
+    "german": "dreckig",
+    "turkish": "kirli"
+  },
+  {
+    "article": "-",
+    "german": "dreieckig",
+    "turkish": "üçgen"
+  },
+  {
+    "article": "-",
+    "german": "du",
+    "turkish": "sen"
+  },
+  {
+    "article": "-",
+    "german": "dunkelblau",
+    "turkish": "koyu mavi"
+  },
+  {
+    "article": "-",
+    "german": "dunkelgrün",
+    "turkish": "koyu yeşil"
+  },
+  {
+    "article": "-",
+    "german": "durch",
+    "turkish": "bölü"
+  },
+  {
+    "article": "-",
+    "german": "eckig",
+    "turkish": "köşeli"
+  },
+  {
+    "article": "-",
+    "german": "ein",
+    "turkish": "bir, herhangi bir"
+  },
+  {
+    "article": "-",
+    "german": "einfach",
+    "turkish": "kolay, basit"
+  },
+  {
+    "article": "-",
+    "german": "einfallen",
+    "turkish": "aklına gelmek"
+  },
+  {
+    "article": "-",
+    "german": "einkaufen",
+    "turkish": "alışveriş yapmak"
+  },
+  {
+    "article": "-",
+    "german": "einladen",
+    "turkish": "davet etmek"
+  },
+  {
+    "article": "-",
+    "german": "einsam",
+    "turkish": "yalnız"
+  },
+  {
+    "article": "-",
+    "german": "einschlafen",
+    "turkish": "uykuya dalmak"
+  },
+  {
+    "article": "-",
+    "german": "einsteigen",
+    "turkish": "araca binmek"
+  },
+  {
+    "article": "-",
+    "german": "eiskalt",
+    "turkish": "buz gibi"
+  },
+  {
+    "article": "-",
+    "german": "E",
+    "turkish": "maildieE-mail"
+  },
+  {
+    "article": "-",
+    "german": "empfehlen",
+    "turkish": "önermek"
+  },
+  {
+    "article": "-",
+    "german": "enschließen",
+    "turkish": "karar vermek"
+  },
+  {
+    "article": "-",
+    "german": "entschuldigen",
+    "turkish": "özür dilemek"
+  },
+  {
+    "article": "-",
+    "german": "er",
+    "turkish": "o erkek"
+  },
+  {
+    "article": "-",
+    "german": "erfinden",
+    "turkish": "bulmak, icat etmek"
+  },
+  {
+    "article": "-",
+    "german": "erholen",
+    "turkish": "dinlenmek"
+  },
+  {
+    "article": "-",
+    "german": "erkennen",
+    "turkish": "tanımak"
+  },
+  {
+    "article": "-",
+    "german": "erledigen",
+    "turkish": "halletmek"
+  },
+  {
+    "article": "-",
+    "german": "erzählen",
+    "turkish": "anlatmak"
+  },
+  {
+    "article": "-",
+    "german": "es",
+    "turkish": "o, onu (cansız)"
+  },
+  {
+    "article": "-",
+    "german": "essen",
+    "turkish": "yemek yemek"
+  },
+  {
+    "article": "-",
+    "german": "etwas",
+    "turkish": "bir şey"
+  },
+  {
+    "article": "-",
+    "german": "euch",
+    "turkish": "sizi"
+  },
+  {
+    "article": "-",
+    "german": "fahren",
+    "turkish": "araçla gitmek"
+  },
+  {
+    "article": "-",
+    "german": "fallen",
+    "turkish": "düşmek"
+  },
+  {
+    "article": "-",
+    "german": "falsch",
+    "turkish": "yanlış"
+  },
+  {
+    "article": "-",
+    "german": "fangen",
+    "turkish": "yakalamak"
+  },
+  {
+    "article": "-",
+    "german": "faul",
+    "turkish": "tembel"
+  },
+  {
+    "article": "-",
+    "german": "feiern",
+    "turkish": "kutlamak"
+  },
+  {
+    "article": "-",
+    "german": "fernsehen",
+    "turkish": "televizyon izlemek"
+  },
+  {
+    "article": "-",
+    "german": "finden",
+    "turkish": "bulmak"
+  },
+  {
+    "article": "-",
+    "german": "fischen",
+    "turkish": "balık tutmak"
+  },
+  {
+    "article": "-",
+    "german": "fliegen",
+    "turkish": "uçakla yolculuk yapmak, uçmak"
+  },
+  {
+    "article": "-",
+    "german": "föhnen",
+    "turkish": "saçları fönlemek"
+  },
+  {
+    "article": "-",
+    "german": "fragen",
+    "turkish": "sormak"
+  },
+  {
+    "article": "-",
+    "german": "frech",
+    "turkish": "yaramaz"
+  },
+  {
+    "article": "-",
+    "german": "freuen",
+    "turkish": "sevinmek"
+  },
+  {
+    "article": "-",
+    "german": "frisch",
+    "turkish": "taze"
+  },
+  {
+    "article": "-",
+    "german": "früh",
+    "turkish": "erken"
+  },
+  {
+    "article": "-",
+    "german": "frühstücken",
+    "turkish": "kahvaltı yapmak"
+  },
+  {
+    "article": "-",
+    "german": "funktionieren",
+    "turkish": "çalışmak"
+  },
+  {
+    "article": "-",
+    "german": "fühlen",
+    "turkish": "hissetmek"
+  },
+  {
+    "article": "-",
+    "german": "fünfeck",
+    "turkish": "beşgen"
+  },
+  {
+    "article": "-",
+    "german": "für",
+    "turkish": "için"
+  },
+  {
+    "article": "-",
+    "german": "füttern",
+    "turkish": "yemlemek"
+  },
+  {
+    "article": "-",
+    "german": "geben",
+    "turkish": "vermek"
+  },
+  {
+    "article": "-",
+    "german": "geduldig",
+    "turkish": "sabırlı"
+  },
+  {
+    "article": "-",
+    "german": "gefährlich",
+    "turkish": "tehlikeli"
+  },
+  {
+    "article": "-",
+    "german": "gefallen",
+    "turkish": "hoşuna gitmek"
+  },
+  {
+    "article": "-",
+    "german": "gehen",
+    "turkish": "(yürüyerek) gitmek"
+  },
+  {
+    "article": "-",
+    "german": "gehören",
+    "turkish": "ait olmak"
+  },
+  {
+    "article": "-",
+    "german": "gelb",
+    "turkish": "sarı"
+  },
+  {
+    "article": "-",
+    "german": "gemütlich",
+    "turkish": "rahat"
+  },
+  {
+    "article": "-",
+    "german": "genug",
+    "turkish": "yeterli, yeterince"
+  },
+  {
+    "article": "-",
+    "german": "gerade",
+    "turkish": "düz, şu an, az önce"
+  },
+  {
+    "article": "-",
+    "german": "geschieden",
+    "turkish": "ayrı, boşanmış"
+  },
+  {
+    "article": "-",
+    "german": "geschlossen",
+    "turkish": "kapalı"
+  },
+  {
+    "article": "-",
+    "german": "gestern",
+    "turkish": "dün"
+  },
+  {
+    "article": "-",
+    "german": "gesund",
+    "turkish": "sağlıklı"
+  },
+  {
+    "article": "-",
+    "german": "gewinnen",
+    "turkish": "kazanmak"
+  },
+  {
+    "article": "-",
+    "german": "glauben",
+    "turkish": "inanmak"
+  },
+  {
+    "article": "-",
+    "german": "gleich",
+    "turkish": "birazdan"
+  },
+  {
+    "article": "-",
+    "german": "glücklich",
+    "turkish": "mutlu"
+  },
+  {
+    "article": "-",
+    "german": "gratulieren",
+    "turkish": "tebrik etmek"
+  },
+  {
+    "article": "-",
+    "german": "grau",
+    "turkish": "gri"
+  },
+  {
+    "article": "-",
+    "german": "groß",
+    "turkish": "büyük"
+  },
+  {
+    "article": "-",
+    "german": "Grüezi!",
+    "turkish": "Selam!"
+  },
+  {
+    "article": "-",
+    "german": "grün",
+    "turkish": "yeşil"
+  },
+  {
+    "article": "-",
+    "german": "Grüß Gott!",
+    "turkish": "Selamın Aleyküm (Dini bir selamlaşma)"
+  },
+  {
+    "article": "-",
+    "german": "gucken",
+    "turkish": "bakmak"
+  },
+  {
+    "article": "-",
+    "german": "gut",
+    "turkish": "iyi"
+  },
+  {
+    "article": "-",
+    "german": "günstig",
+    "turkish": "uygun"
+  },
+  {
+    "article": "-",
+    "german": "Hallo",
+    "turkish": "Selam, merhaba"
+  },
+  {
+    "article": "-",
+    "german": "hängen",
+    "turkish": "asılı durmak"
+  },
+  {
+    "article": "-",
+    "german": "hart",
+    "turkish": "sert"
+  },
+  {
+    "article": "-",
+    "german": "heilen",
+    "turkish": "iyileştirmek"
+  },
+  {
+    "article": "-",
+    "german": "heimgehen",
+    "turkish": "eve gitmek"
+  },
+  {
+    "article": "-",
+    "german": "heiraten",
+    "turkish": "evlenmek"
+  },
+  {
+    "article": "-",
+    "german": "heiß",
+    "turkish": "sıcak"
+  },
+  {
+    "article": "-",
+    "german": "heißen",
+    "turkish": "adlandırmak"
+  },
+  {
+    "article": "-",
+    "german": "helfen",
+    "turkish": "yardım etmek"
+  },
+  {
+    "article": "-",
+    "german": "hellblau",
+    "turkish": "açık mavi"
+  },
+  {
+    "article": "-",
+    "german": "hellgrün",
+    "turkish": "açık yeşil"
+  },
+  {
+    "article": "-",
+    "german": "herausfinden",
+    "turkish": "(arayıp) bulmak"
+  },
+  {
+    "article": "-",
+    "german": "heute",
+    "turkish": "bugün"
+  },
+  {
+    "article": "-",
+    "german": "hier",
+    "turkish": "burada"
+  },
+  {
+    "article": "-",
+    "german": "hierbleiben",
+    "turkish": "burada kalmak"
+  },
+  {
+    "article": "-",
+    "german": "hinfliegen",
+    "turkish": "(bir yere) uçmak"
+  },
+  {
+    "article": "-",
+    "german": "hinsetzen",
+    "turkish": "(bir yere) oturmak"
+  },
+  {
+    "article": "-",
+    "german": "hinter",
+    "turkish": "arkasında"
+  },
+  {
+    "article": "-",
+    "german": "hoch",
+    "turkish": "yukarı, yüksek"
+  },
+  {
+    "article": "-",
+    "german": "hoffen",
+    "turkish": "ummak"
+  },
+  {
+    "article": "-",
+    "german": "holen",
+    "turkish": "almak"
+  },
+  {
+    "article": "-",
+    "german": "Hot",
+    "turkish": "Dogdersosisli sandviç"
+  },
+  {
+    "article": "-",
+    "german": "hören",
+    "turkish": "dinlemek, duymak"
+  },
+  {
+    "article": "-",
+    "german": "hungrig",
+    "turkish": "aç"
+  },
+  {
+    "article": "-",
+    "german": "Insel",
+    "turkish": "ada"
+  },
+  {
+    "article": "-",
+    "german": "ich",
+    "turkish": "ben"
+  },
+  {
+    "article": "-",
+    "german": "ihn",
+    "turkish": "onu (erkek)"
+  },
+  {
+    "article": "-",
+    "german": "ihr",
+    "turkish": "siz"
+  },
+  {
+    "article": "-",
+    "german": "immer",
+    "turkish": "her zaman"
+  },
+  {
+    "article": "-",
+    "german": "interessant",
+    "turkish": "enteresan, ilginç"
+  },
+  {
+    "article": "-",
+    "german": "jeden",
+    "turkish": "her"
+  },
+  {
+    "article": "-",
+    "german": "jemand",
+    "turkish": "birisi"
+  },
+  {
+    "article": "-",
+    "german": "jetzt",
+    "turkish": "şimdi, şu an"
+  },
+  {
+    "article": "-",
+    "german": "kalt",
+    "turkish": "soğuk"
+  },
+  {
+    "article": "-",
+    "german": "kaputt",
+    "turkish": "bozuk, kırık"
+  },
+  {
+    "article": "-",
+    "german": "kaufen",
+    "turkish": "satın almak"
+  },
+  {
+    "article": "-",
+    "german": "kein/keine/nicht",
+    "turkish": "olumsuzluk"
+  },
+  {
+    "article": "-",
+    "german": "kennen",
+    "turkish": "tanımak"
+  },
+  {
+    "article": "-",
+    "german": "kennenlernen",
+    "turkish": "tanışmak"
+  },
+  {
+    "article": "-",
+    "german": "klein",
+    "turkish": "küçük"
+  },
+  {
+    "article": "-",
+    "german": "klingeln",
+    "turkish": "çalmak (telefonun, çalar saatin)"
+  },
+  {
+    "article": "-",
+    "german": "kochen",
+    "turkish": "yemek pişirmek"
+  },
+  {
+    "article": "-",
+    "german": "kommandieren",
+    "turkish": "komut vermek"
+  },
+  {
+    "article": "-",
+    "german": "kommen",
+    "turkish": "gelmek"
+  },
+  {
+    "article": "-",
+    "german": "können",
+    "turkish": "-e, -a bilmek"
+  },
+  {
+    "article": "-",
+    "german": "krank",
+    "turkish": "hasta"
+  },
+  {
+    "article": "-",
+    "german": "kurz",
+    "turkish": "kısa"
+  },
+  {
+    "article": "-",
+    "german": "kühl",
+    "turkish": "serin"
+  },
+  {
+    "article": "-",
+    "german": "lachen",
+    "turkish": "gülmek"
+  },
+  {
+    "article": "-",
+    "german": "lang",
+    "turkish": "uzun, boyunca"
+  },
+  {
+    "article": "-",
+    "german": "langsam",
+    "turkish": "yavaş"
+  },
+  {
+    "article": "-",
+    "german": "langweilig",
+    "turkish": "sıkıcı"
+  },
+  {
+    "article": "-",
+    "german": "laufen",
+    "turkish": "koşmak"
+  },
+  {
+    "article": "-",
+    "german": "leben",
+    "turkish": "yaşamak"
+  },
+  {
+    "article": "-",
+    "german": "lecker",
+    "turkish": "lezzetli"
+  },
+  {
+    "article": "-",
+    "german": "leer",
+    "turkish": "boş"
+  },
+  {
+    "article": "-",
+    "german": "lehren",
+    "turkish": "öğretmek"
+  },
+  {
+    "article": "-",
+    "german": "leicht",
+    "turkish": "kolay, hafif"
+  },
+  {
+    "article": "-",
+    "german": "leider",
+    "turkish": "maalesef"
+  },
+  {
+    "article": "-",
+    "german": "leise",
+    "turkish": "sessiz"
+  },
+  {
+    "article": "-",
+    "german": "lernen",
+    "turkish": "öğrenmek"
+  },
+  {
+    "article": "-",
+    "german": "lesen",
+    "turkish": "okumakz"
+  },
+  {
+    "article": "-",
+    "german": "lieben",
+    "turkish": "sevmek"
+  },
+  {
+    "article": "-",
+    "german": "liegen",
+    "turkish": "(yatay) durmak"
+  },
+  {
+    "article": "-",
+    "german": "lila",
+    "turkish": "mor"
+  },
+  {
+    "article": "-",
+    "german": "losgehen",
+    "turkish": "(yürüyerek) yola çıkmak"
+  },
+  {
+    "article": "-",
+    "german": "lügen",
+    "turkish": "yalan söylemek"
+  },
+  {
+    "article": "-",
+    "german": "machen",
+    "turkish": "yapmak"
+  },
+  {
+    "article": "-",
+    "german": "mal",
+    "turkish": "çarpı"
+  },
+  {
+    "article": "-",
+    "german": "malen",
+    "turkish": "boyamak"
+  },
+  {
+    "article": "-",
+    "german": "manchmal",
+    "turkish": "bazen"
+  },
+  {
+    "article": "-",
+    "german": "mein",
+    "turkish": "benim"
+  },
+  {
+    "article": "-",
+    "german": "meine",
+    "turkish": "benim"
+  },
+  {
+    "article": "-",
+    "german": "merken",
+    "turkish": "akılda tutmak"
+  },
+  {
+    "article": "-",
+    "german": "mich",
+    "turkish": "beni"
+  },
+  {
+    "article": "-",
+    "german": "Milch",
+    "turkish": "süt (sorulacak)"
+  },
+  {
+    "article": "-",
+    "german": "minus",
+    "turkish": "eksi"
+  },
+  {
+    "article": "-",
+    "german": "mir",
+    "turkish": "bana"
+  },
+  {
+    "article": "-",
+    "german": "missverstehen",
+    "turkish": "yanlış anlamak"
+  },
+  {
+    "article": "-",
+    "german": "mit",
+    "turkish": "ile"
+  },
+  {
+    "article": "-",
+    "german": "mitbringen",
+    "turkish": "beraberinde, yanında getirmek"
+  },
+  {
+    "article": "-",
+    "german": "mitkommen",
+    "turkish": "beraber gelmek"
+  },
+  {
+    "article": "-",
+    "german": "morgen",
+    "turkish": "yarın"
+  },
+  {
+    "article": "-",
+    "german": "möchten",
+    "turkish": "istemek"
+  },
+  {
+    "article": "-",
+    "german": "möglich",
+    "turkish": "mümkün"
+  },
+  {
+    "article": "-",
+    "german": "müde",
+    "turkish": "yorgun, uykusuz"
+  },
+  {
+    "article": "-",
+    "german": "nach",
+    "turkish": "sonra"
+  },
+  {
+    "article": "-",
+    "german": "nachkommen",
+    "turkish": "arkadan gelmek"
+  },
+  {
+    "article": "-",
+    "german": "natürlich",
+    "turkish": "tabii ki"
+  },
+  {
+    "article": "-",
+    "german": "neben",
+    "turkish": "yanında"
+  },
+  {
+    "article": "-",
+    "german": "nehmen",
+    "turkish": "almak"
+  },
+  {
+    "article": "-",
+    "german": "nennen",
+    "turkish": "adlandırmak"
+  },
+  {
+    "article": "-",
+    "german": "nett",
+    "turkish": "kibar, nazik"
+  },
+  {
+    "article": "-",
+    "german": "neu",
+    "turkish": "yeni"
+  },
+  {
+    "article": "-",
+    "german": "nie",
+    "turkish": "asla"
+  },
+  {
+    "article": "-",
+    "german": "niemand",
+    "turkish": "hiç kimse"
+  },
+  {
+    "article": "-",
+    "german": "noch",
+    "turkish": "daha"
+  },
+  {
+    "article": "-",
+    "german": "nochmal",
+    "turkish": "bir daha"
+  },
+  {
+    "article": "-",
+    "german": "nur",
+    "turkish": "sadece"
+  },
+  {
+    "article": "-",
+    "german": "oft",
+    "turkish": "sık sık"
+  },
+  {
+    "article": "-",
+    "german": "operieren",
+    "turkish": "ameliyat etmek, operasyon yapmak"
+  },
+  {
+    "article": "-",
+    "german": "orange",
+    "turkish": "turuncu"
+  },
+  {
+    "article": "-",
+    "german": "packen",
+    "turkish": "paketlemek"
+  },
+  {
+    "article": "-",
+    "german": "parken",
+    "turkish": "park etmek"
+  },
+  {
+    "article": "-",
+    "german": "passen",
+    "turkish": "uymak"
+  },
+  {
+    "article": "-",
+    "german": "pflanzen",
+    "turkish": "ekmek (fiil)"
+  },
+  {
+    "article": "-",
+    "german": "planen",
+    "turkish": "planlamak"
+  },
+  {
+    "article": "-",
+    "german": "plus",
+    "turkish": "artı"
+  },
+  {
+    "article": "-",
+    "german": "praktisch",
+    "turkish": "pratik"
+  },
+  {
+    "article": "-",
+    "german": "putzen",
+    "turkish": "temizlemek, fırçalamak"
+  },
+  {
+    "article": "-",
+    "german": "pünktlich",
+    "turkish": "dakik"
+  },
+  {
+    "article": "-",
+    "german": "rausbringen",
+    "turkish": "dışarı götürmek, dışarıya götürmek"
+  },
+  {
+    "article": "-",
+    "german": "regnen",
+    "turkish": "yağmur yağması"
+  },
+  {
+    "article": "-",
+    "german": "regnerisch",
+    "turkish": "yağmurlu"
+  },
+  {
+    "article": "-",
+    "german": "reisen",
+    "turkish": "seyahat etmek"
+  },
+  {
+    "article": "-",
+    "german": "reklamieren",
+    "turkish": "şikayetçi olmak"
+  },
+  {
+    "article": "-",
+    "german": "rennen",
+    "turkish": "koşmak"
+  },
+  {
+    "article": "-",
+    "german": "renovieren",
+    "turkish": "yenilemek"
+  },
+  {
+    "article": "-",
+    "german": "reparieren",
+    "turkish": "tamir etmek"
+  },
+  {
+    "article": "-",
+    "german": "riechen",
+    "turkish": "koklamak"
+  },
+  {
+    "article": "-",
+    "german": "rosa",
+    "turkish": "pembe"
+  },
+  {
+    "article": "-",
+    "german": "Rot",
+    "turkish": "kırmızı"
+  },
+  {
+    "article": "-",
+    "german": "rund",
+    "turkish": "yuvarlak"
+  },
+  {
+    "article": "-",
+    "german": "sagen",
+    "turkish": "söylemek"
+  },
+  {
+    "article": "-",
+    "german": "salzig",
+    "turkish": "tuzlu"
+  },
+  {
+    "article": "-",
+    "german": "sammeln",
+    "turkish": "toplamak"
+  },
+  {
+    "article": "-",
+    "german": "sauber",
+    "turkish": "temiz"
+  },
+  {
+    "article": "-",
+    "german": "sauber machen",
+    "turkish": "temizlemek"
+  },
+  {
+    "article": "-",
+    "german": "schauen",
+    "turkish": "bakmak"
+  },
+  {
+    "article": "-",
+    "german": "schenken",
+    "turkish": "hediye etmek"
+  },
+  {
+    "article": "-",
+    "german": "schicken",
+    "turkish": "göndermek"
+  },
+  {
+    "article": "-",
+    "german": "schlafen",
+    "turkish": "uyumak"
+  },
+  {
+    "article": "-",
+    "german": "schneiden",
+    "turkish": "kesmek"
+  },
+  {
+    "article": "-",
+    "german": "schnell",
+    "turkish": "hızlı"
+  },
+  {
+    "article": "-",
+    "german": "schreiben",
+    "turkish": "yazmak"
+  },
+  {
+    "article": "-",
+    "german": "schwarz",
+    "turkish": "siyah"
+  },
+  {
+    "article": "-",
+    "german": "schwer",
+    "turkish": "ağır, zor"
+  },
+  {
+    "article": "-",
+    "german": "schwimmen",
+    "turkish": "yüzmek"
+  },
+  {
+    "article": "-",
+    "german": "sehen",
+    "turkish": "görmek, izlemek"
+  },
+  {
+    "article": "-",
+    "german": "sehr",
+    "turkish": "çok"
+  },
+  {
+    "article": "-",
+    "german": "sehr gut",
+    "turkish": "çok iyi"
+  },
+  {
+    "article": "-",
+    "german": "sein",
+    "turkish": "olmak"
+  },
+  {
+    "article": "-",
+    "german": "senden",
+    "turkish": "göndermek"
+  },
+  {
+    "article": "-",
+    "german": "servieren",
+    "turkish": "servis etmek"
+  },
+  {
+    "article": "-",
+    "german": "sich treffen",
+    "turkish": "buluşmak"
+  },
+  {
+    "article": "-",
+    "german": "sich unterhalten",
+    "turkish": "sohbet etmek"
+  },
+  {
+    "article": "-",
+    "german": "sie 3.Person Singular",
+    "turkish": "o kadın (3.Tekil Şahıs)"
+  },
+  {
+    "article": "-",
+    "german": "sie 3.Person Plural",
+    "turkish": "onlar (3. Çoğul)"
+  },
+  {
+    "article": "-",
+    "german": "Sie (Höflichkeitsform)",
+    "turkish": "siz (Nezaket formu)"
+  },
+  {
+    "article": "-",
+    "german": "singen",
+    "turkish": "şarkı söylemek"
+  },
+  {
+    "article": "-",
+    "german": "sitzen",
+    "turkish": "oturmak"
+  },
+  {
+    "article": "-",
+    "german": "sollen",
+    "turkish": "meli, malı"
+  },
+  {
+    "article": "-",
+    "german": "sonnig",
+    "turkish": "güneşli"
+  },
+  {
+    "article": "-",
+    "german": "spät",
+    "turkish": "geç"
+  },
+  {
+    "article": "-",
+    "german": "später",
+    "turkish": "daha sonra"
+  },
+  {
+    "article": "-",
+    "german": "spielen",
+    "turkish": "oynamak, çalmak"
+  },
+  {
+    "article": "-",
+    "german": "sprechen",
+    "turkish": "konuşmak"
+  },
+  {
+    "article": "-",
+    "german": "stark",
+    "turkish": "güçlü"
+  },
+  {
+    "article": "-",
+    "german": "stehen",
+    "turkish": "(dikey) durmak"
+  },
+  {
+    "article": "-",
+    "german": "stehlen",
+    "turkish": "çalmak"
+  },
+  {
+    "article": "-",
+    "german": "steigen",
+    "turkish": "binmek"
+  },
+  {
+    "article": "-",
+    "german": "streicheln",
+    "turkish": "okşamak, sevmek"
+  },
+  {
+    "article": "-",
+    "german": "studieren",
+    "turkish": "üniversite okumak"
+  },
+  {
+    "article": "-",
+    "german": "suchen",
+    "turkish": "aramak (bir şeyi)"
+  },
+  {
+    "article": "-",
+    "german": "süß",
+    "turkish": "tatlı"
+  },
+  {
+    "article": "-",
+    "german": "tanzen",
+    "turkish": "dans etmek"
+  },
+  {
+    "article": "-",
+    "german": "telefonieren",
+    "turkish": "telefonlaşmak"
+  },
+  {
+    "article": "-",
+    "german": "teuer",
+    "turkish": "pahalı"
+  },
+  {
+    "article": "-",
+    "german": "träumen",
+    "turkish": "hayal etmek, rüya görmek"
+  },
+  {
+    "article": "-",
+    "german": "traurig",
+    "turkish": "üzücü"
+  },
+  {
+    "article": "-",
+    "german": "treffen",
+    "turkish": "buluşmak"
+  },
+  {
+    "article": "-",
+    "german": "trinken",
+    "turkish": "içmek"
+  },
+  {
+    "article": "-",
+    "german": "trocknen",
+    "turkish": "kurutmak"
+  },
+  {
+    "article": "-",
+    "german": "Tschüss!",
+    "turkish": "Görüşürüz!, Hoşça kal!"
+  },
+  {
+    "article": "-",
+    "german": "T",
+    "turkish": "shirtdastişört"
+  },
+  {
+    "article": "-",
+    "german": "tun",
+    "turkish": "yapmak"
+  },
+  {
+    "article": "-",
+    "german": "türkis",
+    "turkish": "turkuaz"
+  },
+  {
+    "article": "-",
+    "german": "umziehen",
+    "turkish": "taşınmak"
+  },
+  {
+    "article": "-",
+    "german": "unbedingt",
+    "turkish": "illa ki, kesinlikle"
+  },
+  {
+    "article": "-",
+    "german": "und",
+    "turkish": "ve"
+  },
+  {
+    "article": "-",
+    "german": "ungesund",
+    "turkish": "sağlıksız"
+  },
+  {
+    "article": "-",
+    "german": "uns",
+    "turkish": "bizi"
+  },
+  {
+    "article": "-",
+    "german": "unter",
+    "turkish": "altında"
+  },
+  {
+    "article": "-",
+    "german": "unterrichten",
+    "turkish": "ders vermek"
+  },
+  {
+    "article": "-",
+    "german": "unterschreiben",
+    "turkish": "imzalamak"
+  },
+  {
+    "article": "-",
+    "german": "untersuchen",
+    "turkish": "muayene etmek"
+  },
+  {
+    "article": "-",
+    "german": "üben",
+    "turkish": "alıştırma yapmak"
+  },
+  {
+    "article": "-",
+    "german": "über",
+    "turkish": "üzerinde"
+  },
+  {
+    "article": "-",
+    "german": "überlegen",
+    "turkish": "(üzerinde) düşünmek"
+  },
+  {
+    "article": "-",
+    "german": "verabschieden",
+    "turkish": "vedalaşmak"
+  },
+  {
+    "article": "-",
+    "german": "verbinden",
+    "turkish": "bağlamak"
+  },
+  {
+    "article": "-",
+    "german": "verbringen",
+    "turkish": "zaman geçirmek"
+  },
+  {
+    "article": "-",
+    "german": "verdienen",
+    "turkish": "kazanmak (para)"
+  },
+  {
+    "article": "-",
+    "german": "vergessen",
+    "turkish": "unutmak"
+  },
+  {
+    "article": "-",
+    "german": "verheiratet",
+    "turkish": "evli"
+  },
+  {
+    "article": "-",
+    "german": "verkaufen",
+    "turkish": "satmak"
+  },
+  {
+    "article": "-",
+    "german": "verlieren",
+    "turkish": "kaybetmek"
+  },
+  {
+    "article": "-",
+    "german": "vermieten",
+    "turkish": "kiralamak"
+  },
+  {
+    "article": "-",
+    "german": "vermuten",
+    "turkish": "tahmin etmek"
+  },
+  {
+    "article": "-",
+    "german": "verpassen",
+    "turkish": "kaçırmak"
+  },
+  {
+    "article": "-",
+    "german": "verstecken",
+    "turkish": "saklamak"
+  },
+  {
+    "article": "-",
+    "german": "verstehen",
+    "turkish": "anlamak, dinlemek"
+  },
+  {
+    "article": "-",
+    "german": "vertrauen",
+    "turkish": "güvenmek"
+  },
+  {
+    "article": "-",
+    "german": "viel",
+    "turkish": "çok"
+  },
+  {
+    "article": "-",
+    "german": "vielleicht",
+    "turkish": "belki"
+  },
+  {
+    "article": "-",
+    "german": "viereckig",
+    "turkish": "dikdörtgen"
+  },
+  {
+    "article": "-",
+    "german": "vor",
+    "turkish": "önünde"
+  },
+  {
+    "article": "-",
+    "german": "vorbereiten",
+    "turkish": "hazırlanmak, hazırlamak"
+  },
+  {
+    "article": "-",
+    "german": "vorlesen",
+    "turkish": "okumak (birisine bir şey), tanıtmak"
+  },
+  {
+    "article": "-",
+    "german": "vorsichtig",
+    "turkish": "dikkatli"
+  },
+  {
+    "article": "-",
+    "german": "vorstellen",
+    "turkish": "tanıtmak"
+  },
+  {
+    "article": "-",
+    "german": "Wann?",
+    "turkish": "ne zaman?"
+  },
+  {
+    "article": "-",
+    "german": "warm",
+    "turkish": "sıcak"
+  },
+  {
+    "article": "-",
+    "german": "warten",
+    "turkish": "beklemek"
+  },
+  {
+    "article": "-",
+    "german": "Warum?",
+    "turkish": "neden?"
+  },
+  {
+    "article": "-",
+    "german": "Was?",
+    "turkish": "ne?"
+  },
+  {
+    "article": "-",
+    "german": "waschen",
+    "turkish": "yıkamak"
+  },
+  {
+    "article": "-",
+    "german": "wegfahren",
+    "turkish": "bulunduğun yerden araçla gitmek"
+  },
+  {
+    "article": "-",
+    "german": "weich",
+    "turkish": "yumuşak"
+  },
+  {
+    "article": "-",
+    "german": "weinen",
+    "turkish": "ağlamak"
+  },
+  {
+    "article": "-",
+    "german": "weiß",
+    "turkish": "beyaz"
+  },
+  {
+    "article": "-",
+    "german": "weit",
+    "turkish": "uzak"
+  },
+  {
+    "article": "-",
+    "german": "Welche?",
+    "turkish": "hangi?"
+  },
+  {
+    "article": "-",
+    "german": "welken",
+    "turkish": "açmak"
+  },
+  {
+    "article": "-",
+    "german": "wenden",
+    "turkish": "dönmek"
+  },
+  {
+    "article": "-",
+    "german": "wenigstens",
+    "turkish": "en azından"
+  },
+  {
+    "article": "-",
+    "german": "Wer?",
+    "turkish": "kim?"
+  },
+  {
+    "article": "-",
+    "german": "werden",
+    "turkish": "olmak"
+  },
+  {
+    "article": "-",
+    "german": "wertvoll",
+    "turkish": "değerli"
+  },
+  {
+    "article": "-",
+    "german": "wichtig",
+    "turkish": "önemli"
+  },
+  {
+    "article": "-",
+    "german": "Wie viel?",
+    "turkish": "ne kadar?"
+  },
+  {
+    "article": "-",
+    "german": "Wie?",
+    "turkish": "Nasıl?"
+  },
+  {
+    "article": "-",
+    "german": "wieder",
+    "turkish": "tekrardan"
+  },
+  {
+    "article": "-",
+    "german": "wir",
+    "turkish": "biz"
+  },
+  {
+    "article": "-",
+    "german": "wissen",
+    "turkish": "bilmek"
+  },
+  {
+    "article": "-",
+    "german": "Wo?",
+    "turkish": "nerede?"
+  },
+  {
+    "article": "-",
+    "german": "Woher?",
+    "turkish": "nereden?"
+  },
+  {
+    "article": "-",
+    "german": "Wohin?",
+    "turkish": "nereye?"
+  },
+  {
+    "article": "-",
+    "german": "wohnen",
+    "turkish": "oturmak, ikamet etmek"
+  },
+  {
+    "article": "-",
+    "german": "wollen",
+    "turkish": "istemek"
+  },
+  {
+    "article": "-",
+    "german": "wünschen",
+    "turkish": "dilemek"
+  },
+  {
+    "article": "-",
+    "german": "zeichnen",
+    "turkish": "çizmek"
+  },
+  {
+    "article": "-",
+    "german": "zerbrechen",
+    "turkish": "kırmak"
+  },
+  {
+    "article": "-",
+    "german": "zuerst",
+    "turkish": "önce"
+  },
+  {
+    "article": "-",
+    "german": "zugeben",
+    "turkish": "itiraf etmek"
+  },
+  {
+    "article": "-",
+    "german": "zumachen",
+    "turkish": "kapatmak (elektronik olmayan şeyleri)"
+  },
+  {
+    "article": "-",
+    "german": "zunehmen",
+    "turkish": "kilo almak"
+  },
+  {
+    "article": "-",
+    "german": "zurückfahren",
+    "turkish": "geri dönmek (araçla)"
+  },
+  {
+    "article": "-",
+    "german": "zurückgehen",
+    "turkish": "geri gitmek"
+  },
+  {
+    "article": "-",
+    "german": "zusammen",
+    "turkish": "birlikte, beraber"
+  },
+  {
+    "article": "-",
+    "german": "zwischen",
+    "turkish": "arasında"
+  },
+  {
+    "article": "-",
+    "german": "zwitschern",
+    "turkish": "kuşların cıvıldaması"
+  }
+]

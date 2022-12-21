@@ -15,6 +15,9 @@ interface WordDao {
     @Query("SELECT * FROM words")
     suspend fun getAllWords(): List<Word>
 
+    @Query("SELECT * FROM words WHERE mistake == :mistake")
+    suspend fun getMistakenWords(mistake: Boolean = true): List<Word>
+
     @Query("SELECT * FROM words WHERE uid == :id")
     suspend fun getWordById(id: Int): List<Word>
 

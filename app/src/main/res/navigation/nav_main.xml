@@ -13,7 +13,19 @@
         <action
             android:id="@+id/action_homeFragment_to_testFragment"
             app:destination="@id/testFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_learnWordFragment"
+            app:destination="@id/learnWordFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_reviewFragment"
+            app:destination="@id/reviewFragment" />
     </fragment>
+
+    <fragment
+        android:id="@+id/learnWordFragment"
+        android:name="com.aydsoftware.kelimelik.ui.view.fragment.LearnWordFragment"
+        android:label="LearnWordFragment"
+        tools:layout="@layout/fragment_learn_word"/>
     <fragment
         android:id="@+id/testFragment"
         android:name="com.aydsoftware.kelimelik.ui.view.fragment.TestFragment"
@@ -43,4 +55,9 @@
             android:name="mistake"
             app:argType="string" />
     </dialog>
+    <fragment
+        android:id="@+id/reviewFragment"
+        android:name="com.aydsoftware.kelimelik.ui.view.fragment.ReviewFragment"
+        android:label="ReviewFragment"
+        tools:layout="@layout/fragment_review"/>
 </navigation>

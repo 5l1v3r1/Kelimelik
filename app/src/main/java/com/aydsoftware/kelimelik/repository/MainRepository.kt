@@ -48,6 +48,23 @@ constructor(
             }
         }
 
+    suspend fun getMistakenWords(): Flow<DataState<List<Word>>> =
+        flow {
+            try {
+                emit(DataState.Loading)
+                val roomResult = wordDao.getMistakenWords()
+                if (roomResult.isEmpty()) {
+                    val retrofitResult = wordListApi.getWordList()
+                    retrofitResult.forEach{
+                        wordDao.insertWords(it)
+                    }
+                }
+                emit(DataState.Success(roomResult))
+            } catch (e: Exception) {
+                emit(DataState.Error(e))
+            }
+        }
+
     suspend fun getWordById(id: Int): Flow<DataState<Word>> =
         flow {
             try {
